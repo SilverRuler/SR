@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-# Test
-=======
 # SilverRuler
 
 SR_GitHub
