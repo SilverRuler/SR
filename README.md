@@ -1,3 +1,0 @@
-# SilverRuler
-
-SR_GitHub
