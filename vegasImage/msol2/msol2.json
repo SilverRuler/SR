@@ -1,0 +1,17 @@
+{
+  "daemon" : true,  
+  "directory" :
+  {
+    "public" : "/../public",
+    "upload" : "/../upload",
+    "logs" : "/../logs",
+    "image" : "/../public/image"
+  }
+  ,
+  "redis" :
+  {
+    "password" : "mgrsol123",
+    "expire" : 60000,
+    "dbno" : 5
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "name": "monitProxy",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "node app"
+  },
+  "dependencies": {
+    "async": "^2.6.1",
+    "child_process": "^1.0.2",
+    "dateformat": "^3.0.3",
+    "jsonfile": "^4.0.0",
+    "moment": "^2.22.2",
+    "mysql": "^2.15.0",
+    "os": "^0.1.1",
+    "redis": "^2.8.0",
+    "request": "^2.87.0",
+    "systeminformation": "^3.42.0"
+  }
+}

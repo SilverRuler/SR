@@ -1,0 +1,29 @@
+[2020-09-27 17:03:48.576] [INFO] app - SVCPost_739529481175040_ot_5719106481987724706 is starting ...
+[2020-09-27 17:03:48.607] [INFO] app - SVCPost_739529481175040_ot_5719106481987724706_.undefined is starting ...
+[2020-09-27 17:03:48.607] [INFO] app - uploadImage uploaded to  /home/vegas/vegasImage/upload/SVCPost_739529481175040_ot_57191064819877247061601193828576
+[2020-09-27 17:03:48.607] [INFO] app - uploadThumb uploaded to  /home/vegas/vegasImage/upload/SVCPost_739529481175040_ot_5719106481987724706_1601193828607.undefined
+[2020-09-27 17:03:48.607] [INFO] vegasImage - saveMedicalImage : uploadInfo = {"IMAGEPATH":"202009/picture_30841_20200927170348_5abbfrkfktgp8q.jpg","ORGID":480}
+[2020-09-27 17:03:48.607] [INFO] vegasImage - saveMedicalImage : req.files={ uploadImage: 
+   { fieldname: 'uploadImage',
+     originalname: 'SVCPost_739529481175040_ot_5719106481987724706',
+     name: 'SVCPost_739529481175040_ot_57191064819877247061601193828576',
+     encoding: '7bit',
+     mimetype: 'application/octet-stream',
+     path: '/home/vegas/vegasImage/upload/SVCPost_739529481175040_ot_57191064819877247061601193828576',
+     extension: '',
+     size: 328927,
+     truncated: false,
+     buffer: null },
+  uploadThumb: 
+   { fieldname: 'uploadThumb',
+     originalname: 'SVCPost_739529481175040_ot_5719106481987724706_.undefined',
+     name: 'SVCPost_739529481175040_ot_5719106481987724706_1601193828607.undefined',
+     encoding: '7bit',
+     mimetype: 'application/octet-stream',
+     path: '/home/vegas/vegasImage/upload/SVCPost_739529481175040_ot_5719106481987724706_1601193828607.undefined',
+     extension: 'undefined',
+     size: 323,
+     truncated: false,
+     buffer: null } }
+[2020-09-27 17:03:48.608] [INFO] vegasImage - file move = /home/vegas/vegasImage/public/image/480/202009/medical/source/picture_30841_20200927170348_5abbfrkfktgp8q.jpg
+[2020-09-27 17:03:48.608] [INFO] vegasImage - file move = /home/vegas/vegasImage/public/image/480/202009/medical/75x100/picture_30841_20200927170348_5abbfrkfktgp8q.jpg

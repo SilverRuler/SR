@@ -1,0 +1,30 @@
+[2020-10-03 11:30:48.954] [INFO] app - SVCPost_741570919378944_ot_8497612627180104614 is starting ...
+[2020-10-03 11:30:49.301] [INFO] app - SVCPost_741570919378944_ot_8497612627180104614_.undefined is starting ...
+[2020-10-03 11:30:49.301] [INFO] app - uploadImage uploaded to  /home/vegas/vegasImage/upload/SVCPost_741570919378944_ot_84976126271801046141601692248954
+[2020-10-03 11:30:49.301] [INFO] app - uploadThumb uploaded to  /home/vegas/vegasImage/upload/SVCPost_741570919378944_ot_8497612627180104614_1601692249301.undefined
+[2020-10-03 11:30:49.301] [INFO] vegasImage - saveMedicalImage : uploadInfo = {"IMAGEPATH":"202010/picture_17395_20201003113048_5abbfrkft27ku8.jpg","ORGID":480}
+[2020-10-03 11:30:49.302] [INFO] vegasImage - saveMedicalImage : req.files={ uploadImage: 
+   { fieldname: 'uploadImage',
+     originalname: 'SVCPost_741570919378944_ot_8497612627180104614',
+     name: 'SVCPost_741570919378944_ot_84976126271801046141601692248954',
+     encoding: '7bit',
+     mimetype: 'application/octet-stream',
+     path: '/home/vegas/vegasImage/upload/SVCPost_741570919378944_ot_84976126271801046141601692248954',
+     extension: '',
+     size: 4050340,
+     truncated: false,
+     buffer: null },
+  uploadThumb: 
+   { fieldname: 'uploadThumb',
+     originalname: 'SVCPost_741570919378944_ot_8497612627180104614_.undefined',
+     name: 'SVCPost_741570919378944_ot_8497612627180104614_1601692249301.undefined',
+     encoding: '7bit',
+     mimetype: 'application/octet-stream',
+     path: '/home/vegas/vegasImage/upload/SVCPost_741570919378944_ot_8497612627180104614_1601692249301.undefined',
+     extension: 'undefined',
+     size: 2028,
+     truncated: false,
+     buffer: null } }
+[2020-10-03 11:30:49.302] [DEBUG] common - getImageDir : checkImageDir : /home/vegas/vegasImage/public/image/480/202010/medical/source/
+[2020-10-03 11:30:49.302] [INFO] vegasImage - file move = /home/vegas/vegasImage/public/image/480/202010/medical/source/picture_17395_20201003113048_5abbfrkft27ku8.jpg
+[2020-10-03 11:30:49.302] [INFO] vegasImage - file move = /home/vegas/vegasImage/public/image/480/202010/medical/75x100/picture_17395_20201003113048_5abbfrkft27ku8.jpg

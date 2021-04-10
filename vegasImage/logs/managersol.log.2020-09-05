@@ -1,0 +1,29 @@
+[2020-09-05 06:53:13.186] [INFO] app - SVCPost_731593751474176_ot_1337587113992207663 is starting ...
+[2020-09-05 06:53:13.355] [INFO] app - SVCPost_731593751474176_ot_1337587113992207663_.undefined is starting ...
+[2020-09-05 06:53:13.356] [INFO] app - uploadImage uploaded to  /home/vegas/vegasImage/upload/SVCPost_731593751474176_ot_13375871139922076631599256393186
+[2020-09-05 06:53:13.356] [INFO] app - uploadThumb uploaded to  /home/vegas/vegasImage/upload/SVCPost_731593751474176_ot_1337587113992207663_1599256393354.undefined
+[2020-09-05 06:53:13.357] [INFO] vegasImage - saveMedicalImage : uploadInfo = {"IMAGEPATH":"202009/picture_40927_20200905065313_5abf5hkeoryqiu.jpg","ORGID":480}
+[2020-09-05 06:53:13.357] [INFO] vegasImage - saveMedicalImage : req.files={ uploadImage: 
+   { fieldname: 'uploadImage',
+     originalname: 'SVCPost_731593751474176_ot_1337587113992207663',
+     name: 'SVCPost_731593751474176_ot_13375871139922076631599256393186',
+     encoding: '7bit',
+     mimetype: 'application/octet-stream',
+     path: '/home/vegas/vegasImage/upload/SVCPost_731593751474176_ot_13375871139922076631599256393186',
+     extension: '',
+     size: 591307,
+     truncated: false,
+     buffer: null },
+  uploadThumb: 
+   { fieldname: 'uploadThumb',
+     originalname: 'SVCPost_731593751474176_ot_1337587113992207663_.undefined',
+     name: 'SVCPost_731593751474176_ot_1337587113992207663_1599256393354.undefined',
+     encoding: '7bit',
+     mimetype: 'application/octet-stream',
+     path: '/home/vegas/vegasImage/upload/SVCPost_731593751474176_ot_1337587113992207663_1599256393354.undefined',
+     extension: 'undefined',
+     size: 509,
+     truncated: false,
+     buffer: null } }
+[2020-09-05 06:53:13.358] [INFO] vegasImage - file move = /home/vegas/vegasImage/public/image/480/202009/medical/source/picture_40927_20200905065313_5abf5hkeoryqiu.jpg
+[2020-09-05 06:53:13.358] [INFO] vegasImage - file move = /home/vegas/vegasImage/public/image/480/202009/medical/75x100/picture_40927_20200905065313_5abf5hkeoryqiu.jpg

@@ -1,0 +1,14 @@
+{
+    "appenders": [
+      { "type" : "console" },
+      {
+          "type": "dateFile", 
+          "filename": "managersol.log",
+          "pattern": ".yyyy-MM-dd"
+      }
+    ],
+
+    "levels": {
+        "tests":  "DEBUG"
+    }
+}

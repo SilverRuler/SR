@@ -1,0 +1,13 @@
+{
+  "nominal":"OHKIMSIMAGE",
+  "process_dir" : "./",
+  "server_type" : "IMAGE", 
+  "ipaddress" : ["112.216.74.83"], 
+  "redis" :
+  {
+    "host" : "106.248.235.42",
+    "expire" : 60000,
+    "port" : 6379,
+    "password": "mgrsol123"
+  }
+}

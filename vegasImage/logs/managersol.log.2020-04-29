@@ -1,0 +1,2871 @@
+[2020-04-29 08:27:22.071] [INFO] app - uploadThumb is starting ...
+[2020-04-29 08:27:22.073] [INFO] app - uploadImage is starting ...
+[2020-04-29 08:27:22.074] [INFO] app - uploadThumb uploaded to  /home/vegas/vegasImage/upload/uploadThumb1588116442071
+[2020-04-29 08:27:22.157] [INFO] app - uploadImage uploaded to  /home/vegas/vegasImage/upload/uploadImage1588116442073
+[2020-04-29 08:27:22.157] [INFO] vegasImage - saveMedicalImage : uploadInfo = {"IMAGEPATH":"0429/paper_38828_20200429082723.png","ORGID":480}
+[2020-04-29 08:27:22.158] [INFO] vegasImage - saveMedicalImage : req.files={ uploadThumb: 
+   { fieldname: 'uploadThumb',
+     originalname: 'uploadThumb',
+     name: 'uploadThumb1588116442071',
+     encoding: '7bit',
+     mimetype: 'multipart/form-data',
+     path: '/home/vegas/vegasImage/upload/uploadThumb1588116442071',
+     extension: '',
+     size: 2466,
+     truncated: false,
+     buffer: null },
+  uploadImage: 
+   { fieldname: 'uploadImage',
+     originalname: 'uploadImage',
+     name: 'uploadImage1588116442073',
+     encoding: '7bit',
+     mimetype: 'multipart/form-data',
+     path: '/home/vegas/vegasImage/upload/uploadImage1588116442073',
+     extension: '',
+     size: 360097,
+     truncated: false,
+     buffer: null } }
+[2020-04-29 08:27:22.158] [INFO] vegasImage - file move = /home/vegas/vegasImage/public/image/480/202004/medical/source/paper_38828_20200429082723.png
+[2020-04-29 08:27:22.158] [INFO] vegasImage - file move = /home/vegas/vegasImage/public/image/480/202004/medical/75x100/paper_38828_20200429082723.png
+[2020-04-29 08:28:39.456] [INFO] app - uploadThumb is starting ...
+[2020-04-29 08:28:39.459] [INFO] app - uploadImage is starting ...
+[2020-04-29 08:28:39.460] [INFO] app - uploadThumb uploaded to  /home/vegas/vegasImage/upload/uploadThumb1588116519456
+[2020-04-29 08:28:39.663] [INFO] app - uploadImage uploaded to  /home/vegas/vegasImage/upload/uploadImage1588116519459
+[2020-04-29 08:28:39.663] [INFO] vegasImage - saveMedicalImage : uploadInfo = {"IMAGEPATH":"0429/paper_38828_20200429082840.png","ORGID":480}
+[2020-04-29 08:28:39.664] [INFO] vegasImage - saveMedicalImage : req.files={ uploadThumb: 
+   { fieldname: 'uploadThumb',
+     originalname: 'uploadThumb',
+     name: 'uploadThumb1588116519456',
+     encoding: '7bit',
+     mimetype: 'multipart/form-data',
+     path: '/home/vegas/vegasImage/upload/uploadThumb1588116519456',
+     extension: '',
+     size: 4612,
+     truncated: false,
+     buffer: null },
+  uploadImage: 
+   { fieldname: 'uploadImage',
+     originalname: 'uploadImage',
+     name: 'uploadImage1588116519459',
+     encoding: '7bit',
+     mimetype: 'multipart/form-data',
+     path: '/home/vegas/vegasImage/upload/uploadImage1588116519459',
+     extension: '',
+     size: 1821639,
+     truncated: false,
+     buffer: null } }
+[2020-04-29 08:28:39.665] [INFO] vegasImage - file move = /home/vegas/vegasImage/public/image/480/202004/medical/source/paper_38828_20200429082840.png
+[2020-04-29 08:28:39.665] [INFO] vegasImage - file move = /home/vegas/vegasImage/public/image/480/202004/medical/75x100/paper_38828_20200429082840.png
+[2020-04-29 08:53:57.239] [INFO] app - SVCPost_685971020840960_ot_8089886665658857259 is starting ...
+[2020-04-29 08:53:57.675] [INFO] app - SVCPost_685971020840960_ot_8089886665658857259_.undefined is starting ...
+[2020-04-29 08:53:57.675] [INFO] app - uploadImage uploaded to  /home/vegas/vegasImage/upload/SVCPost_685971020840960_ot_80898866656588572591588118037239
+[2020-04-29 08:53:57.675] [INFO] app - uploadThumb uploaded to  /home/vegas/vegasImage/upload/SVCPost_685971020840960_ot_8089886665658857259_1588118037675.undefined
+[2020-04-29 08:53:57.675] [INFO] vegasImage - saveMedicalImage : uploadInfo = {"IMAGEPATH":"202004/picture_26688_20200429085357_5ablr6k9kkh41w.jpg","ORGID":480}
+[2020-04-29 08:53:57.676] [INFO] vegasImage - saveMedicalImage : req.files={ uploadImage: 
+   { fieldname: 'uploadImage',
+     originalname: 'SVCPost_685971020840960_ot_8089886665658857259',
+     name: 'SVCPost_685971020840960_ot_80898866656588572591588118037239',
+     encoding: '7bit',
+     mimetype: 'application/octet-stream',
+     path: '/home/vegas/vegasImage/upload/SVCPost_685971020840960_ot_80898866656588572591588118037239',
+     extension: '',
+     size: 5079359,
+     truncated: false,
+     buffer: null },
+  uploadThumb: 
+   { fieldname: 'uploadThumb',
+     originalname: 'SVCPost_685971020840960_ot_8089886665658857259_.undefined',
+     name: 'SVCPost_685971020840960_ot_8089886665658857259_1588118037675.undefined',
+     encoding: '7bit',
+     mimetype: 'application/octet-stream',
+     path: '/home/vegas/vegasImage/upload/SVCPost_685971020840960_ot_8089886665658857259_1588118037675.undefined',
+     extension: 'undefined',
+     size: 1515,
+     truncated: false,
+     buffer: null } }
+[2020-04-29 08:53:57.676] [INFO] vegasImage - file move = /home/vegas/vegasImage/public/image/480/202004/medical/source/picture_26688_20200429085357_5ablr6k9kkh41w.jpg
+[2020-04-29 08:53:57.676] [INFO] vegasImage - file move = /home/vegas/vegasImage/public/image/480/202004/medical/75x100/picture_26688_20200429085357_5ablr6k9kkh41w.jpg
+[2020-04-29 08:54:09.125] [INFO] app - SVCPost_685970920607744_ot_7325181699236993947 is starting ...
+[2020-04-29 08:54:09.553] [INFO] app - SVCPost_685970920607744_ot_7325181699236993947_.undefined is starting ...
+[2020-04-29 08:54:09.553] [INFO] app - uploadImage uploaded to  /home/vegas/vegasImage/upload/SVCPost_685970920607744_ot_73251816992369939471588118049125
+[2020-04-29 08:54:09.553] [INFO] app - uploadThumb uploaded to  /home/vegas/vegasImage/upload/SVCPost_685970920607744_ot_7325181699236993947_1588118049553.undefined
+[2020-04-29 08:54:09.553] [INFO] vegasImage - saveMedicalImage : uploadInfo = {"IMAGEPATH":"202004/picture_26688_20200429085409_5ablr6k9kkhd81.jpg","ORGID":480}
+[2020-04-29 08:54:09.553] [INFO] vegasImage - saveMedicalImage : req.files={ uploadImage: 
+   { fieldname: 'uploadImage',
+     originalname: 'SVCPost_685970920607744_ot_7325181699236993947',
+     name: 'SVCPost_685970920607744_ot_73251816992369939471588118049125',
+     encoding: '7bit',
+     mimetype: 'application/octet-stream',
+     path: '/home/vegas/vegasImage/upload/SVCPost_685970920607744_ot_73251816992369939471588118049125',
+     extension: '',
+     size: 4930751,
+     truncated: false,
+     buffer: null },
+  uploadThumb: 
+   { fieldname: 'uploadThumb',
+     originalname: 'SVCPost_685970920607744_ot_7325181699236993947_.undefined',
+     name: 'SVCPost_685970920607744_ot_7325181699236993947_1588118049553.undefined',
+     encoding: '7bit',
+     mimetype: 'application/octet-stream',
+     path: '/home/vegas/vegasImage/upload/SVCPost_685970920607744_ot_7325181699236993947_1588118049553.undefined',
+     extension: 'undefined',
+     size: 1691,
+     truncated: false,
+     buffer: null } }
+[2020-04-29 08:54:09.553] [INFO] vegasImage - file move = /home/vegas/vegasImage/public/image/480/202004/medical/source/picture_26688_20200429085409_5ablr6k9kkhd81.jpg
+[2020-04-29 08:54:09.554] [INFO] vegasImage - file move = /home/vegas/vegasImage/public/image/480/202004/medical/75x100/picture_26688_20200429085409_5ablr6k9kkhd81.jpg
+[2020-04-29 08:59:40.693] [INFO] app - uploadThumb is starting ...
+[2020-04-29 08:59:40.694] [INFO] app - uploadImage is starting ...
+[2020-04-29 08:59:40.695] [INFO] app - uploadThumb uploaded to  /home/vegas/vegasImage/upload/uploadThumb1588118380693
+[2020-04-29 08:59:40.855] [INFO] app - uploadImage uploaded to  /home/vegas/vegasImage/upload/uploadImage1588118380694
+[2020-04-29 08:59:40.856] [INFO] vegasImage - saveMedicalImage : uploadInfo = {"IMAGEPATH":"0429/paper_38828_20200429085944.png","ORGID":480}
+[2020-04-29 08:59:40.856] [INFO] vegasImage - saveMedicalImage : req.files={ uploadThumb: 
+   { fieldname: 'uploadThumb',
+     originalname: 'uploadThumb',
+     name: 'uploadThumb1588118380693',
+     encoding: '7bit',
+     mimetype: 'multipart/form-data',
+     path: '/home/vegas/vegasImage/upload/uploadThumb1588118380693',
+     extension: '',
+     size: 5351,
+     truncated: false,
+     buffer: null },
+  uploadImage: 
+   { fieldname: 'uploadImage',
+     originalname: 'uploadImage',
+     name: 'uploadImage1588118380694',
+     encoding: '7bit',
+     mimetype: 'multipart/form-data',
+     path: '/home/vegas/vegasImage/upload/uploadImage1588118380694',
+     extension: '',
+     size: 1080887,
+     truncated: false,
+     buffer: null } }
+[2020-04-29 08:59:40.856] [INFO] vegasImage - file move = /home/vegas/vegasImage/public/image/480/202004/medical/source/paper_38828_20200429085944.png
+[2020-04-29 08:59:40.856] [INFO] vegasImage - file move = /home/vegas/vegasImage/public/image/480/202004/medical/75x100/paper_38828_20200429085944.png
+[2020-04-29 09:28:45.180] [INFO] app - uploadThumb is starting ...
+[2020-04-29 09:28:45.181] [INFO] app - uploadImage is starting ...
+[2020-04-29 09:28:45.183] [INFO] app - uploadThumb uploaded to  /home/vegas/vegasImage/upload/uploadThumb1588120125180
+[2020-04-29 09:28:45.300] [INFO] app - uploadImage uploaded to  /home/vegas/vegasImage/upload/uploadImage1588120125181
+[2020-04-29 09:28:45.300] [INFO] vegasImage - saveMedicalImage : uploadInfo = {"IMAGEPATH":"0429/paper_38864_20200429092845.png","ORGID":480}
+[2020-04-29 09:28:45.301] [INFO] vegasImage - saveMedicalImage : req.files={ uploadThumb: 
+   { fieldname: 'uploadThumb',
+     originalname: 'uploadThumb',
+     name: 'uploadThumb1588120125180',
+     encoding: '7bit',
+     mimetype: 'multipart/form-data',
+     path: '/home/vegas/vegasImage/upload/uploadThumb1588120125180',
+     extension: '',
+     size: 2511,
+     truncated: false,
+     buffer: null },
+  uploadImage: 
+   { fieldname: 'uploadImage',
+     originalname: 'uploadImage',
+     name: 'uploadImage1588120125181',
+     encoding: '7bit',
+     mimetype: 'multipart/form-data',
+     path: '/home/vegas/vegasImage/upload/uploadImage1588120125181',
+     extension: '',
+     size: 359266,
+     truncated: false,
+     buffer: null } }
+[2020-04-29 09:28:45.301] [INFO] vegasImage - file move = /home/vegas/vegasImage/public/image/480/202004/medical/source/paper_38864_20200429092845.png
+[2020-04-29 09:28:45.302] [INFO] vegasImage - file move = /home/vegas/vegasImage/public/image/480/202004/medical/75x100/paper_38864_20200429092845.png
+[2020-04-29 09:30:31.175] [INFO] app - uploadThumb is starting ...
+[2020-04-29 09:30:31.175] [INFO] app - uploadImage is starting ...
+[2020-04-29 09:30:31.176] [INFO] app - uploadThumb uploaded to  /home/vegas/vegasImage/upload/uploadThumb1588120231174
+[2020-04-29 09:30:31.469] [INFO] app - uploadImage uploaded to  /home/vegas/vegasImage/upload/uploadImage1588120231175
+[2020-04-29 09:30:31.469] [INFO] vegasImage - saveMedicalImage : uploadInfo = {"IMAGEPATH":"0429/paper_38864_20200429093031.png","ORGID":480}
+[2020-04-29 09:30:31.471] [INFO] vegasImage - saveMedicalImage : req.files={ uploadThumb: 
+   { fieldname: 'uploadThumb',
+     originalname: 'uploadThumb',
+     name: 'uploadThumb1588120231174',
+     encoding: '7bit',
+     mimetype: 'multipart/form-data',
+     path: '/home/vegas/vegasImage/upload/uploadThumb1588120231174',
+     extension: '',
+     size: 2647,
+     truncated: false,
+     buffer: null },
+  uploadImage: 
+   { fieldname: 'uploadImage',
+     originalname: 'uploadImage',
+     name: 'uploadImage1588120231175',
+     encoding: '7bit',
+     mimetype: 'multipart/form-data',
+     path: '/home/vegas/vegasImage/upload/uploadImage1588120231175',
+     extension: '',
+     size: 435168,
+     truncated: false,
+     buffer: null } }
+[2020-04-29 09:30:31.472] [INFO] vegasImage - file move = /home/vegas/vegasImage/public/image/480/202004/medical/source/paper_38864_20200429093031.png
+[2020-04-29 09:30:31.472] [INFO] vegasImage - file move = /home/vegas/vegasImage/public/image/480/202004/medical/75x100/paper_38864_20200429093031.png
+[2020-04-29 09:32:44.672] [INFO] app - uploadThumb is starting ...
+[2020-04-29 09:32:44.672] [INFO] app - uploadImage is starting ...
+[2020-04-29 09:32:44.673] [INFO] app - uploadThumb uploaded to  /home/vegas/vegasImage/upload/uploadThumb1588120364672
+[2020-04-29 09:32:44.957] [INFO] app - uploadImage uploaded to  /home/vegas/vegasImage/upload/uploadImage1588120364672
+[2020-04-29 09:32:44.957] [INFO] vegasImage - saveMedicalImage : uploadInfo = {"IMAGEPATH":"0429/paper_38864_20200429093245.png","ORGID":480}
+[2020-04-29 09:32:44.957] [INFO] vegasImage - saveMedicalImage : req.files={ uploadThumb: 
+   { fieldname: 'uploadThumb',
+     originalname: 'uploadThumb',
+     name: 'uploadThumb1588120364672',
+     encoding: '7bit',
+     mimetype: 'multipart/form-data',
+     path: '/home/vegas/vegasImage/upload/uploadThumb1588120364672',
+     extension: '',
+     size: 4629,
+     truncated: false,
+     buffer: null },
+  uploadImage: 
+   { fieldname: 'uploadImage',
+     originalname: 'uploadImage',
+     name: 'uploadImage1588120364672',
+     encoding: '7bit',
+     mimetype: 'multipart/form-data',
+     path: '/home/vegas/vegasImage/upload/uploadImage1588120364672',
+     extension: '',
+     size: 1832168,
+     truncated: false,
+     buffer: null } }
+[2020-04-29 09:32:44.957] [INFO] vegasImage - file move = /home/vegas/vegasImage/public/image/480/202004/medical/source/paper_38864_20200429093245.png
+[2020-04-29 09:32:44.957] [INFO] vegasImage - file move = /home/vegas/vegasImage/public/image/480/202004/medical/75x100/paper_38864_20200429093245.png
+[2020-04-29 09:36:26.142] [INFO] app - uploadThumb is starting ...
+[2020-04-29 09:36:26.142] [INFO] app - uploadImage is starting ...
+[2020-04-29 09:36:26.143] [INFO] app - uploadThumb uploaded to  /home/vegas/vegasImage/upload/uploadThumb1588120586141
+[2020-04-29 09:36:26.201] [INFO] app - uploadImage uploaded to  /home/vegas/vegasImage/upload/uploadImage1588120586142
+[2020-04-29 09:36:26.201] [INFO] vegasImage - saveMedicalImage : uploadInfo = {"IMAGEPATH":"0429/paper_16307_20200429093627.png","ORGID":480}
+[2020-04-29 09:36:26.201] [INFO] vegasImage - saveMedicalImage : req.files={ uploadThumb: 
+   { fieldname: 'uploadThumb',
+     originalname: 'uploadThumb',
+     name: 'uploadThumb1588120586141',
+     encoding: '7bit',
+     mimetype: 'multipart/form-data',
+     path: '/home/vegas/vegasImage/upload/uploadThumb1588120586141',
+     extension: '',
+     size: 2235,
+     truncated: false,
+     buffer: null },
+  uploadImage: 
+   { fieldname: 'uploadImage',
+     originalname: 'uploadImage',
+     name: 'uploadImage1588120586142',
+     encoding: '7bit',
+     mimetype: 'multipart/form-data',
+     path: '/home/vegas/vegasImage/upload/uploadImage1588120586142',
+     extension: '',
+     size: 337020,
+     truncated: false,
+     buffer: null } }
+[2020-04-29 09:36:26.202] [INFO] vegasImage - file move = /home/vegas/vegasImage/public/image/480/202004/medical/source/paper_16307_20200429093627.png
+[2020-04-29 09:36:26.202] [INFO] vegasImage - file move = /home/vegas/vegasImage/public/image/480/202004/medical/75x100/paper_16307_20200429093627.png
+[2020-04-29 09:59:18.082] [INFO] app - uploadThumb is starting ...
+[2020-04-29 09:59:18.083] [INFO] app - uploadImage is starting ...
+[2020-04-29 09:59:18.084] [INFO] app - uploadThumb uploaded to  /home/vegas/vegasImage/upload/uploadThumb1588121958082
+[2020-04-29 09:59:18.273] [INFO] app - uploadImage uploaded to  /home/vegas/vegasImage/upload/uploadImage1588121958083
+[2020-04-29 09:59:18.273] [INFO] vegasImage - saveMedicalImage : uploadInfo = {"IMAGEPATH":"0429/paper_16307_20200429095921.png","ORGID":480}
+[2020-04-29 09:59:18.274] [INFO] vegasImage - saveMedicalImage : req.files={ uploadThumb: 
+   { fieldname: 'uploadThumb',
+     originalname: 'uploadThumb',
+     name: 'uploadThumb1588121958082',
+     encoding: '7bit',
+     mimetype: 'multipart/form-data',
+     path: '/home/vegas/vegasImage/upload/uploadThumb1588121958082',
+     extension: '',
+     size: 5312,
+     truncated: false,
+     buffer: null },
+  uploadImage: 
+   { fieldname: 'uploadImage',
+     originalname: 'uploadImage',
+     name: 'uploadImage1588121958083',
+     encoding: '7bit',
+     mimetype: 'multipart/form-data',
+     path: '/home/vegas/vegasImage/upload/uploadImage1588121958083',
+     extension: '',
+     size: 1079466,
+     truncated: false,
+     buffer: null } }
+[2020-04-29 09:59:18.275] [INFO] vegasImage - file move = /home/vegas/vegasImage/public/image/480/202004/medical/source/paper_16307_20200429095921.png
+[2020-04-29 09:59:18.275] [INFO] vegasImage - file move = /home/vegas/vegasImage/public/image/480/202004/medical/75x100/paper_16307_20200429095921.png
+[2020-04-29 10:03:43.204] [INFO] app - uploadThumb is starting ...
+[2020-04-29 10:03:43.205] [INFO] app - uploadImage is starting ...
+[2020-04-29 10:03:43.207] [INFO] app - uploadThumb uploaded to  /home/vegas/vegasImage/upload/uploadThumb1588122223204
+[2020-04-29 10:03:43.579] [INFO] app - uploadImage uploaded to  /home/vegas/vegasImage/upload/uploadImage1588122223205
+[2020-04-29 10:03:43.580] [INFO] vegasImage - saveMedicalImage : uploadInfo = {"IMAGEPATH":"0429/paper_38920_20200429100344.png","ORGID":480}
+[2020-04-29 10:03:43.581] [INFO] vegasImage - saveMedicalImage : req.files={ uploadThumb: 
+   { fieldname: 'uploadThumb',
+     originalname: 'uploadThumb',
+     name: 'uploadThumb1588122223204',
+     encoding: '7bit',
+     mimetype: 'multipart/form-data',
+     path: '/home/vegas/vegasImage/upload/uploadThumb1588122223204',
+     extension: '',
+     size: 5033,
+     truncated: false,
+     buffer: null },
+  uploadImage: 
+   { fieldname: 'uploadImage',
+     originalname: 'uploadImage',
+     name: 'uploadImage1588122223205',
+     encoding: '7bit',
+     mimetype: 'multipart/form-data',
+     path: '/home/vegas/vegasImage/upload/uploadImage1588122223205',
+     extension: '',
+     size: 830104,
+     truncated: false,
+     buffer: null } }
+[2020-04-29 10:03:43.581] [INFO] vegasImage - file move = /home/vegas/vegasImage/public/image/480/202004/medical/source/paper_38920_20200429100344.png
+[2020-04-29 10:03:43.581] [INFO] vegasImage - file move = /home/vegas/vegasImage/public/image/480/202004/medical/75x100/paper_38920_20200429100344.png
+[2020-04-29 10:18:37.645] [INFO] app - uploadThumb is starting ...
+[2020-04-29 10:18:37.646] [INFO] app - uploadImage is starting ...
+[2020-04-29 10:18:37.649] [INFO] app - uploadThumb uploaded to  /home/vegas/vegasImage/upload/uploadThumb1588123117645
+[2020-04-29 10:18:37.781] [INFO] app - uploadImage uploaded to  /home/vegas/vegasImage/upload/uploadImage1588123117646
+[2020-04-29 10:18:37.781] [INFO] vegasImage - saveMedicalImage : uploadInfo = {"IMAGEPATH":"0429/paper_38920_20200429101838.png","ORGID":480}
+[2020-04-29 10:18:37.781] [INFO] vegasImage - saveMedicalImage : req.files={ uploadThumb: 
+   { fieldname: 'uploadThumb',
+     originalname: 'uploadThumb',
+     name: 'uploadThumb1588123117645',
+     encoding: '7bit',
+     mimetype: 'multipart/form-data',
+     path: '/home/vegas/vegasImage/upload/uploadThumb1588123117645',
+     extension: '',
+     size: 5867,
+     truncated: false,
+     buffer: null },
+  uploadImage: 
+   { fieldname: 'uploadImage',
+     originalname: 'uploadImage',
+     name: 'uploadImage1588123117646',
+     encoding: '7bit',
+     mimetype: 'multipart/form-data',
+     path: '/home/vegas/vegasImage/upload/uploadImage1588123117646',
+     extension: '',
+     size: 773231,
+     truncated: false,
+     buffer: null } }
+[2020-04-29 10:18:37.781] [INFO] vegasImage - file move = /home/vegas/vegasImage/public/image/480/202004/medical/source/paper_38920_20200429101838.png
+[2020-04-29 10:18:37.782] [INFO] vegasImage - file move = /home/vegas/vegasImage/public/image/480/202004/medical/75x100/paper_38920_20200429101838.png
+[2020-04-29 10:23:49.155] [INFO] app - uploadThumb is starting ...
+[2020-04-29 10:23:49.156] [INFO] app - uploadImage is starting ...
+[2020-04-29 10:23:49.157] [INFO] app - uploadThumb uploaded to  /home/vegas/vegasImage/upload/uploadThumb1588123429155
+[2020-04-29 10:23:49.184] [INFO] app - uploadImage uploaded to  /home/vegas/vegasImage/upload/uploadImage1588123429156
+[2020-04-29 10:23:49.184] [INFO] vegasImage - saveMedicalImage : uploadInfo = {"IMAGEPATH":"0429/paper_38883_20200429102350.png","ORGID":480}
+[2020-04-29 10:23:49.185] [INFO] vegasImage - saveMedicalImage : req.files={ uploadThumb: 
+   { fieldname: 'uploadThumb',
+     originalname: 'uploadThumb',
+     name: 'uploadThumb1588123429155',
+     encoding: '7bit',
+     mimetype: 'multipart/form-data',
+     path: '/home/vegas/vegasImage/upload/uploadThumb1588123429155',
+     extension: '',
+     size: 767,
+     truncated: false,
+     buffer: null },
+  uploadImage: 
+   { fieldname: 'uploadImage',
+     originalname: 'uploadImage',
+     name: 'uploadImage1588123429156',
+     encoding: '7bit',
+     mimetype: 'multipart/form-data',
+     path: '/home/vegas/vegasImage/upload/uploadImage1588123429156',
+     extension: '',
+     size: 137161,
+     truncated: false,
+     buffer: null } }
+[2020-04-29 10:23:49.185] [INFO] vegasImage - file move = /home/vegas/vegasImage/public/image/480/202004/medical/source/paper_38883_20200429102350.png
+[2020-04-29 10:23:49.185] [INFO] vegasImage - file move = /home/vegas/vegasImage/public/image/480/202004/medical/75x100/paper_38883_20200429102350.png
+[2020-04-29 10:26:03.256] [INFO] app - uploadThumb is starting ...
+[2020-04-29 10:26:03.257] [INFO] app - uploadImage is starting ...
+[2020-04-29 10:26:03.257] [INFO] app - uploadThumb uploaded to  /home/vegas/vegasImage/upload/uploadThumb1588123563256
+[2020-04-29 10:26:03.329] [INFO] app - uploadImage uploaded to  /home/vegas/vegasImage/upload/uploadImage1588123563257
+[2020-04-29 10:26:03.329] [INFO] vegasImage - saveMedicalImage : uploadInfo = {"IMAGEPATH":"0429/paper_38883_20200429102604.png","ORGID":480}
+[2020-04-29 10:26:03.329] [INFO] vegasImage - saveMedicalImage : req.files={ uploadThumb: 
+   { fieldname: 'uploadThumb',
+     originalname: 'uploadThumb',
+     name: 'uploadThumb1588123563256',
+     encoding: '7bit',
+     mimetype: 'multipart/form-data',
+     path: '/home/vegas/vegasImage/upload/uploadThumb1588123563256',
+     extension: '',
+     size: 2589,
+     truncated: false,
+     buffer: null },
+  uploadImage: 
+   { fieldname: 'uploadImage',
+     originalname: 'uploadImage',
+     name: 'uploadImage1588123563257',
+     encoding: '7bit',
+     mimetype: 'multipart/form-data',
+     path: '/home/vegas/vegasImage/upload/uploadImage1588123563257',
+     extension: '',
+     size: 438001,
+     truncated: false,
+     buffer: null } }
+[2020-04-29 10:26:03.329] [INFO] vegasImage - file move = /home/vegas/vegasImage/public/image/480/202004/medical/source/paper_38883_20200429102604.png
+[2020-04-29 10:26:03.329] [INFO] vegasImage - file move = /home/vegas/vegasImage/public/image/480/202004/medical/75x100/paper_38883_20200429102604.png
+[2020-04-29 10:27:39.939] [INFO] app - uploadThumb is starting ...
+[2020-04-29 10:27:39.939] [INFO] app - uploadImage is starting ...
+[2020-04-29 10:27:39.941] [INFO] app - uploadThumb uploaded to  /home/vegas/vegasImage/upload/uploadThumb1588123659939
+[2020-04-29 10:27:40.247] [INFO] app - uploadImage uploaded to  /home/vegas/vegasImage/upload/uploadImage1588123659939
+[2020-04-29 10:27:40.248] [INFO] vegasImage - saveMedicalImage : uploadInfo = {"IMAGEPATH":"0429/paper_38883_20200429102741.png","ORGID":480}
+[2020-04-29 10:27:40.250] [INFO] vegasImage - saveMedicalImage : req.files={ uploadThumb: 
+   { fieldname: 'uploadThumb',
+     originalname: 'uploadThumb',
+     name: 'uploadThumb1588123659939',
+     encoding: '7bit',
+     mimetype: 'multipart/form-data',
+     path: '/home/vegas/vegasImage/upload/uploadThumb1588123659939',
+     extension: '',
+     size: 4591,
+     truncated: false,
+     buffer: null },
+  uploadImage: 
+   { fieldname: 'uploadImage',
+     originalname: 'uploadImage',
+     name: 'uploadImage1588123659939',
+     encoding: '7bit',
+     mimetype: 'multipart/form-data',
+     path: '/home/vegas/vegasImage/upload/uploadImage1588123659939',
+     extension: '',
+     size: 1826371,
+     truncated: false,
+     buffer: null } }
+[2020-04-29 10:27:40.250] [INFO] vegasImage - file move = /home/vegas/vegasImage/public/image/480/202004/medical/source/paper_38883_20200429102741.png
+[2020-04-29 10:27:40.251] [INFO] vegasImage - file move = /home/vegas/vegasImage/public/image/480/202004/medical/75x100/paper_38883_20200429102741.png
+[2020-04-29 10:27:57.192] [INFO] app - uploadThumb is starting ...
+[2020-04-29 10:27:57.192] [INFO] app - uploadImage is starting ...
+[2020-04-29 10:27:57.193] [INFO] app - uploadThumb uploaded to  /home/vegas/vegasImage/upload/uploadThumb1588123677192
+[2020-04-29 10:27:57.256] [INFO] app - uploadImage uploaded to  /home/vegas/vegasImage/upload/uploadImage1588123677192
+[2020-04-29 10:27:57.256] [INFO] vegasImage - saveMedicalImage : uploadInfo = {"IMAGEPATH":"0429/paper_38862_20200429102758.png","ORGID":480}
+[2020-04-29 10:27:57.257] [INFO] vegasImage - saveMedicalImage : req.files={ uploadThumb: 
+   { fieldname: 'uploadThumb',
+     originalname: 'uploadThumb',
+     name: 'uploadThumb1588123677192',
+     encoding: '7bit',
+     mimetype: 'multipart/form-data',
+     path: '/home/vegas/vegasImage/upload/uploadThumb1588123677192',
+     extension: '',
+     size: 2419,
+     truncated: false,
+     buffer: null },
+  uploadImage: 
+   { fieldname: 'uploadImage',
+     originalname: 'uploadImage',
+     name: 'uploadImage1588123677192',
+     encoding: '7bit',
+     mimetype: 'multipart/form-data',
+     path: '/home/vegas/vegasImage/upload/uploadImage1588123677192',
+     extension: '',
+     size: 406497,
+     truncated: false,
+     buffer: null } }
+[2020-04-29 10:27:57.257] [INFO] vegasImage - file move = /home/vegas/vegasImage/public/image/480/202004/medical/source/paper_38862_20200429102758.png
+[2020-04-29 10:27:57.257] [INFO] vegasImage - file move = /home/vegas/vegasImage/public/image/480/202004/medical/75x100/paper_38862_20200429102758.png
+[2020-04-29 10:29:49.906] [INFO] app - uploadThumb is starting ...
+[2020-04-29 10:29:49.907] [INFO] app - uploadImage is starting ...
+[2020-04-29 10:29:49.907] [INFO] app - uploadThumb uploaded to  /home/vegas/vegasImage/upload/uploadThumb1588123789906
+[2020-04-29 10:29:50.314] [INFO] app - uploadImage uploaded to  /home/vegas/vegasImage/upload/uploadImage1588123789907
+[2020-04-29 10:29:50.315] [INFO] vegasImage - saveMedicalImage : uploadInfo = {"IMAGEPATH":"0429/paper_38862_20200429102951.png","ORGID":480}
+[2020-04-29 10:29:50.316] [INFO] vegasImage - saveMedicalImage : req.files={ uploadThumb: 
+   { fieldname: 'uploadThumb',
+     originalname: 'uploadThumb',
+     name: 'uploadThumb1588123789906',
+     encoding: '7bit',
+     mimetype: 'multipart/form-data',
+     path: '/home/vegas/vegasImage/upload/uploadThumb1588123789906',
+     extension: '',
+     size: 4583,
+     truncated: false,
+     buffer: null },
+  uploadImage: 
+   { fieldname: 'uploadImage',
+     originalname: 'uploadImage',
+     name: 'uploadImage1588123789907',
+     encoding: '7bit',
+     mimetype: 'multipart/form-data',
+     path: '/home/vegas/vegasImage/upload/uploadImage1588123789907',
+     extension: '',
+     size: 1820210,
+     truncated: false,
+     buffer: null } }
+[2020-04-29 10:29:50.317] [INFO] vegasImage - file move = /home/vegas/vegasImage/public/image/480/202004/medical/source/paper_38862_20200429102951.png
+[2020-04-29 10:29:50.317] [INFO] vegasImage - file move = /home/vegas/vegasImage/public/image/480/202004/medical/75x100/paper_38862_20200429102951.png
+[2020-04-29 10:33:33.102] [INFO] app - uploadThumb is starting ...
+[2020-04-29 10:33:33.103] [INFO] app - uploadImage is starting ...
+[2020-04-29 10:33:33.104] [INFO] app - uploadThumb uploaded to  /home/vegas/vegasImage/upload/uploadThumb1588124013102
+[2020-04-29 10:33:33.296] [INFO] app - uploadImage uploaded to  /home/vegas/vegasImage/upload/uploadImage1588124013103
+[2020-04-29 10:33:33.296] [INFO] vegasImage - saveMedicalImage : uploadInfo = {"IMAGEPATH":"0429/paper_38920_20200429103334.png","ORGID":480}
+[2020-04-29 10:33:33.296] [INFO] vegasImage - saveMedicalImage : req.files={ uploadThumb: 
+   { fieldname: 'uploadThumb',
+     originalname: 'uploadThumb',
+     name: 'uploadThumb1588124013102',
+     encoding: '7bit',
+     mimetype: 'multipart/form-data',
+     path: '/home/vegas/vegasImage/upload/uploadThumb1588124013102',
+     extension: '',
+     size: 5460,
+     truncated: false,
+     buffer: null },
+  uploadImage: 
+   { fieldname: 'uploadImage',
+     originalname: 'uploadImage',
+     name: 'uploadImage1588124013103',
+     encoding: '7bit',
+     mimetype: 'multipart/form-data',
+     path: '/home/vegas/vegasImage/upload/uploadImage1588124013103',
+     extension: '',
+     size: 797274,
+     truncated: false,
+     buffer: null } }
+[2020-04-29 10:33:33.296] [INFO] vegasImage - file move = /home/vegas/vegasImage/public/image/480/202004/medical/source/paper_38920_20200429103334.png
+[2020-04-29 10:33:33.296] [INFO] vegasImage - file move = /home/vegas/vegasImage/public/image/480/202004/medical/75x100/paper_38920_20200429103334.png
+[2020-04-29 10:34:46.755] [INFO] app - uploadThumb is starting ...
+[2020-04-29 10:34:46.755] [INFO] app - uploadImage is starting ...
+[2020-04-29 10:34:46.755] [INFO] app - uploadThumb uploaded to  /home/vegas/vegasImage/upload/uploadThumb1588124086754
+[2020-04-29 10:34:46.903] [INFO] app - uploadImage uploaded to  /home/vegas/vegasImage/upload/uploadImage1588124086755
+[2020-04-29 10:34:46.903] [INFO] vegasImage - saveMedicalImage : uploadInfo = {"IMAGEPATH":"202004/paper_38920_20200429103334.png","ORGID":480}
+[2020-04-29 10:34:46.904] [INFO] vegasImage - saveMedicalImage : req.files={ uploadThumb: 
+   { fieldname: 'uploadThumb',
+     originalname: 'uploadThumb',
+     name: 'uploadThumb1588124086754',
+     encoding: '7bit',
+     mimetype: 'multipart/form-data',
+     path: '/home/vegas/vegasImage/upload/uploadThumb1588124086754',
+     extension: '',
+     size: 5567,
+     truncated: false,
+     buffer: null },
+  uploadImage: 
+   { fieldname: 'uploadImage',
+     originalname: 'uploadImage',
+     name: 'uploadImage1588124086755',
+     encoding: '7bit',
+     mimetype: 'multipart/form-data',
+     path: '/home/vegas/vegasImage/upload/uploadImage1588124086755',
+     extension: '',
+     size: 821923,
+     truncated: false,
+     buffer: null } }
+[2020-04-29 10:34:46.906] [INFO] vegasImage - file move = /home/vegas/vegasImage/public/image/480/202004/medical/source/paper_38920_20200429103334.png
+[2020-04-29 10:34:46.906] [INFO] vegasImage - file move = /home/vegas/vegasImage/public/image/480/202004/medical/75x100/paper_38920_20200429103334.png
+[2020-04-29 10:37:55.628] [INFO] app - uploadThumb is starting ...
+[2020-04-29 10:37:55.629] [INFO] app - uploadImage is starting ...
+[2020-04-29 10:37:55.630] [INFO] app - uploadThumb uploaded to  /home/vegas/vegasImage/upload/uploadThumb1588124275628
+[2020-04-29 10:37:55.982] [INFO] app - uploadImage uploaded to  /home/vegas/vegasImage/upload/uploadImage1588124275629
+[2020-04-29 10:37:55.983] [INFO] vegasImage - saveMedicalImage : uploadInfo = {"IMAGEPATH":"202004/paper_38920_20200429103334.png","ORGID":480}
+[2020-04-29 10:37:55.983] [INFO] vegasImage - saveMedicalImage : req.files={ uploadThumb: 
+   { fieldname: 'uploadThumb',
+     originalname: 'uploadThumb',
+     name: 'uploadThumb1588124275628',
+     encoding: '7bit',
+     mimetype: 'multipart/form-data',
+     path: '/home/vegas/vegasImage/upload/uploadThumb1588124275628',
+     extension: '',
+     size: 5567,
+     truncated: false,
+     buffer: null },
+  uploadImage: 
+   { fieldname: 'uploadImage',
+     originalname: 'uploadImage',
+     name: 'uploadImage1588124275629',
+     encoding: '7bit',
+     mimetype: 'multipart/form-data',
+     path: '/home/vegas/vegasImage/upload/uploadImage1588124275629',
+     extension: '',
+     size: 821923,
+     truncated: false,
+     buffer: null } }
+[2020-04-29 10:37:55.984] [INFO] vegasImage - file move = /home/vegas/vegasImage/public/image/480/202004/medical/source/paper_38920_20200429103334.png
+[2020-04-29 10:37:55.985] [INFO] vegasImage - file move = /home/vegas/vegasImage/public/image/480/202004/medical/75x100/paper_38920_20200429103334.png
+[2020-04-29 10:40:14.434] [INFO] app - uploadThumb is starting ...
+[2020-04-29 10:40:14.435] [INFO] app - uploadImage is starting ...
+[2020-04-29 10:40:14.436] [INFO] app - uploadThumb uploaded to  /home/vegas/vegasImage/upload/uploadThumb1588124414434
+[2020-04-29 10:40:14.788] [INFO] app - uploadImage uploaded to  /home/vegas/vegasImage/upload/uploadImage1588124414435
+[2020-04-29 10:40:14.789] [INFO] vegasImage - saveMedicalImage : uploadInfo = {"IMAGEPATH":"202004/paper_38920_20200429103334.png","ORGID":480}
+[2020-04-29 10:40:14.789] [INFO] vegasImage - saveMedicalImage : req.files={ uploadThumb: 
+   { fieldname: 'uploadThumb',
+     originalname: 'uploadThumb',
+     name: 'uploadThumb1588124414434',
+     encoding: '7bit',
+     mimetype: 'multipart/form-data',
+     path: '/home/vegas/vegasImage/upload/uploadThumb1588124414434',
+     extension: '',
+     size: 5645,
+     truncated: false,
+     buffer: null },
+  uploadImage: 
+   { fieldname: 'uploadImage',
+     originalname: 'uploadImage',
+     name: 'uploadImage1588124414435',
+     encoding: '7bit',
+     mimetype: 'multipart/form-data',
+     path: '/home/vegas/vegasImage/upload/uploadImage1588124414435',
+     extension: '',
+     size: 838296,
+     truncated: false,
+     buffer: null } }
+[2020-04-29 10:40:14.790] [INFO] vegasImage - file move = /home/vegas/vegasImage/public/image/480/202004/medical/source/paper_38920_20200429103334.png
+[2020-04-29 10:40:14.791] [INFO] vegasImage - file move = /home/vegas/vegasImage/public/image/480/202004/medical/75x100/paper_38920_20200429103334.png
+[2020-04-29 11:02:30.867] [INFO] app - uploadThumb is starting ...
+[2020-04-29 11:02:30.868] [INFO] app - uploadImage is starting ...
+[2020-04-29 11:02:30.869] [INFO] app - uploadThumb uploaded to  /home/vegas/vegasImage/upload/uploadThumb1588125750867
+[2020-04-29 11:02:30.946] [INFO] app - uploadImage uploaded to  /home/vegas/vegasImage/upload/uploadImage1588125750868
+[2020-04-29 11:02:30.946] [INFO] vegasImage - saveMedicalImage : uploadInfo = {"IMAGEPATH":"0429/paper_38920_20200429110230.png","ORGID":480}
+[2020-04-29 11:02:30.946] [INFO] vegasImage - saveMedicalImage : req.files={ uploadThumb: 
+   { fieldname: 'uploadThumb',
+     originalname: 'uploadThumb',
+     name: 'uploadThumb1588125750867',
+     encoding: '7bit',
+     mimetype: 'multipart/form-data',
+     path: '/home/vegas/vegasImage/upload/uploadThumb1588125750867',
+     extension: '',
+     size: 1889,
+     truncated: false,
+     buffer: null },
+  uploadImage: 
+   { fieldname: 'uploadImage',
+     originalname: 'uploadImage',
+     name: 'uploadImage1588125750868',
+     encoding: '7bit',
+     mimetype: 'multipart/form-data',
+     path: '/home/vegas/vegasImage/upload/uploadImage1588125750868',
+     extension: '',
+     size: 329153,
+     truncated: false,
+     buffer: null } }
+[2020-04-29 11:02:30.946] [INFO] vegasImage - file move = /home/vegas/vegasImage/public/image/480/202004/medical/source/paper_38920_20200429110230.png
+[2020-04-29 11:02:30.946] [INFO] vegasImage - file move = /home/vegas/vegasImage/public/image/480/202004/medical/75x100/paper_38920_20200429110230.png
+[2020-04-29 11:08:13.940] [INFO] app - uploadThumb is starting ...
+[2020-04-29 11:08:13.941] [INFO] app - uploadImage is starting ...
+[2020-04-29 11:08:13.943] [INFO] app - uploadThumb uploaded to  /home/vegas/vegasImage/upload/uploadThumb1588126093940
+[2020-04-29 11:08:14.245] [INFO] app - uploadImage uploaded to  /home/vegas/vegasImage/upload/uploadImage1588126093941
+[2020-04-29 11:08:14.245] [INFO] vegasImage - saveMedicalImage : uploadInfo = {"IMAGEPATH":"202004/paper_38920_20200429110230.png","ORGID":480}
+[2020-04-29 11:08:14.246] [INFO] vegasImage - saveMedicalImage : req.files={ uploadThumb: 
+   { fieldname: 'uploadThumb',
+     originalname: 'uploadThumb',
+     name: 'uploadThumb1588126093940',
+     encoding: '7bit',
+     mimetype: 'multipart/form-data',
+     path: '/home/vegas/vegasImage/upload/uploadThumb1588126093940',
+     extension: '',
+     size: 1997,
+     truncated: false,
+     buffer: null },
+  uploadImage: 
+   { fieldname: 'uploadImage',
+     originalname: 'uploadImage',
+     name: 'uploadImage1588126093941',
+     encoding: '7bit',
+     mimetype: 'multipart/form-data',
+     path: '/home/vegas/vegasImage/upload/uploadImage1588126093941',
+     extension: '',
+     size: 354277,
+     truncated: false,
+     buffer: null } }
+[2020-04-29 11:08:14.247] [INFO] vegasImage - file move = /home/vegas/vegasImage/public/image/480/202004/medical/source/paper_38920_20200429110230.png
+[2020-04-29 11:08:14.247] [INFO] vegasImage - file move = /home/vegas/vegasImage/public/image/480/202004/medical/75x100/paper_38920_20200429110230.png
+[2020-04-29 12:08:17.900] [INFO] app - uploadThumb is starting ...
+[2020-04-29 12:08:17.901] [INFO] app - uploadImage is starting ...
+[2020-04-29 12:08:17.902] [INFO] app - uploadThumb uploaded to  /home/vegas/vegasImage/upload/uploadThumb1588129697900
+[2020-04-29 12:08:17.961] [INFO] app - uploadImage uploaded to  /home/vegas/vegasImage/upload/uploadImage1588129697901
+[2020-04-29 12:08:17.961] [INFO] vegasImage - saveMedicalImage : uploadInfo = {"IMAGEPATH":"0429/paper_38905_20200429120819.png","ORGID":480}
+[2020-04-29 12:08:17.962] [INFO] vegasImage - saveMedicalImage : req.files={ uploadThumb: 
+   { fieldname: 'uploadThumb',
+     originalname: 'uploadThumb',
+     name: 'uploadThumb1588129697900',
+     encoding: '7bit',
+     mimetype: 'multipart/form-data',
+     path: '/home/vegas/vegasImage/upload/uploadThumb1588129697900',
+     extension: '',
+     size: 2231,
+     truncated: false,
+     buffer: null },
+  uploadImage: 
+   { fieldname: 'uploadImage',
+     originalname: 'uploadImage',
+     name: 'uploadImage1588129697901',
+     encoding: '7bit',
+     mimetype: 'multipart/form-data',
+     path: '/home/vegas/vegasImage/upload/uploadImage1588129697901',
+     extension: '',
+     size: 341340,
+     truncated: false,
+     buffer: null } }
+[2020-04-29 12:08:17.962] [INFO] vegasImage - file move = /home/vegas/vegasImage/public/image/480/202004/medical/source/paper_38905_20200429120819.png
+[2020-04-29 12:08:17.962] [INFO] vegasImage - file move = /home/vegas/vegasImage/public/image/480/202004/medical/75x100/paper_38905_20200429120819.png
+[2020-04-29 12:09:41.536] [INFO] app - uploadThumb is starting ...
+[2020-04-29 12:09:41.537] [INFO] app - uploadImage is starting ...
+[2020-04-29 12:09:41.538] [INFO] app - uploadThumb uploaded to  /home/vegas/vegasImage/upload/uploadThumb1588129781536
+[2020-04-29 12:09:41.871] [INFO] app - uploadImage uploaded to  /home/vegas/vegasImage/upload/uploadImage1588129781537
+[2020-04-29 12:09:41.871] [INFO] vegasImage - saveMedicalImage : uploadInfo = {"IMAGEPATH":"0429/paper_38905_20200429120942.png","ORGID":480}
+[2020-04-29 12:09:41.871] [INFO] vegasImage - saveMedicalImage : req.files={ uploadThumb: 
+   { fieldname: 'uploadThumb',
+     originalname: 'uploadThumb',
+     name: 'uploadThumb1588129781536',
+     encoding: '7bit',
+     mimetype: 'multipart/form-data',
+     path: '/home/vegas/vegasImage/upload/uploadThumb1588129781536',
+     extension: '',
+     size: 4612,
+     truncated: false,
+     buffer: null },
+  uploadImage: 
+   { fieldname: 'uploadImage',
+     originalname: 'uploadImage',
+     name: 'uploadImage1588129781537',
+     encoding: '7bit',
+     mimetype: 'multipart/form-data',
+     path: '/home/vegas/vegasImage/upload/uploadImage1588129781537',
+     extension: '',
+     size: 1824331,
+     truncated: false,
+     buffer: null } }
+[2020-04-29 12:09:41.872] [INFO] vegasImage - file move = /home/vegas/vegasImage/public/image/480/202004/medical/source/paper_38905_20200429120942.png
+[2020-04-29 12:09:41.872] [INFO] vegasImage - file move = /home/vegas/vegasImage/public/image/480/202004/medical/75x100/paper_38905_20200429120942.png
+[2020-04-29 12:19:25.350] [INFO] app - uploadThumb is starting ...
+[2020-04-29 12:19:25.351] [INFO] app - uploadImage is starting ...
+[2020-04-29 12:19:25.351] [INFO] app - uploadThumb uploaded to  /home/vegas/vegasImage/upload/uploadThumb1588130365350
+[2020-04-29 12:19:25.455] [INFO] app - uploadImage uploaded to  /home/vegas/vegasImage/upload/uploadImage1588130365351
+[2020-04-29 12:19:25.455] [INFO] vegasImage - saveMedicalImage : uploadInfo = {"IMAGEPATH":"0429/paper_38883_20200429121929.png","ORGID":480}
+[2020-04-29 12:19:25.456] [INFO] vegasImage - saveMedicalImage : req.files={ uploadThumb: 
+   { fieldname: 'uploadThumb',
+     originalname: 'uploadThumb',
+     name: 'uploadThumb1588130365350',
+     encoding: '7bit',
+     mimetype: 'multipart/form-data',
+     path: '/home/vegas/vegasImage/upload/uploadThumb1588130365350',
+     extension: '',
+     size: 3236,
+     truncated: false,
+     buffer: null },
+  uploadImage: 
+   { fieldname: 'uploadImage',
+     originalname: 'uploadImage',
+     name: 'uploadImage1588130365351',
+     encoding: '7bit',
+     mimetype: 'multipart/form-data',
+     path: '/home/vegas/vegasImage/upload/uploadImage1588130365351',
+     extension: '',
+     size: 504662,
+     truncated: false,
+     buffer: null } }
+[2020-04-29 12:19:25.456] [INFO] vegasImage - file move = /home/vegas/vegasImage/public/image/480/202004/medical/source/paper_38883_20200429121929.png
+[2020-04-29 12:19:25.457] [INFO] vegasImage - file move = /home/vegas/vegasImage/public/image/480/202004/medical/75x100/paper_38883_20200429121929.png
+[2020-04-29 12:22:00.227] [INFO] app - uploadThumb is starting ...
+[2020-04-29 12:22:00.228] [INFO] app - uploadImage is starting ...
+[2020-04-29 12:22:00.228] [INFO] app - uploadThumb uploaded to  /home/vegas/vegasImage/upload/uploadThumb1588130520226
+[2020-04-29 12:22:00.433] [INFO] app - uploadImage uploaded to  /home/vegas/vegasImage/upload/uploadImage1588130520228
+[2020-04-29 12:22:00.433] [INFO] vegasImage - saveMedicalImage : uploadInfo = {"IMAGEPATH":"0429/paper_38905_20200429122203.png","ORGID":480}
+[2020-04-29 12:22:00.434] [INFO] vegasImage - saveMedicalImage : req.files={ uploadThumb: 
+   { fieldname: 'uploadThumb',
+     originalname: 'uploadThumb',
+     name: 'uploadThumb1588130520226',
+     encoding: '7bit',
+     mimetype: 'multipart/form-data',
+     path: '/home/vegas/vegasImage/upload/uploadThumb1588130520226',
+     extension: '',
+     size: 5377,
+     truncated: false,
+     buffer: null },
+  uploadImage: 
+   { fieldname: 'uploadImage',
+     originalname: 'uploadImage',
+     name: 'uploadImage1588130520228',
+     encoding: '7bit',
+     mimetype: 'multipart/form-data',
+     path: '/home/vegas/vegasImage/upload/uploadImage1588130520228',
+     extension: '',
+     size: 1092783,
+     truncated: false,
+     buffer: null } }
+[2020-04-29 12:22:00.435] [INFO] vegasImage - file move = /home/vegas/vegasImage/public/image/480/202004/medical/source/paper_38905_20200429122203.png
+[2020-04-29 12:22:00.435] [INFO] vegasImage - file move = /home/vegas/vegasImage/public/image/480/202004/medical/75x100/paper_38905_20200429122203.png
+[2020-04-29 12:39:58.819] [INFO] app - SVCPost_686026572406784_ot_1340194539187208936 is starting ...
+[2020-04-29 12:39:59.082] [INFO] app - SVCPost_686026572406784_ot_1340194539187208936_.undefined is starting ...
+[2020-04-29 12:39:59.083] [INFO] app - uploadImage uploaded to  /home/vegas/vegasImage/upload/SVCPost_686026572406784_ot_13401945391872089361588131598819
+[2020-04-29 12:39:59.083] [INFO] app - uploadThumb uploaded to  /home/vegas/vegasImage/upload/SVCPost_686026572406784_ot_1340194539187208936_1588131599082.undefined
+[2020-04-29 12:39:59.083] [INFO] vegasImage - saveMedicalImage : uploadInfo = {"IMAGEPATH":"202004/picture_38862_20200429123958_5ablr6k9ksjs8q.jpg","ORGID":480}
+[2020-04-29 12:39:59.083] [INFO] vegasImage - saveMedicalImage : req.files={ uploadImage: 
+   { fieldname: 'uploadImage',
+     originalname: 'SVCPost_686026572406784_ot_1340194539187208936',
+     name: 'SVCPost_686026572406784_ot_13401945391872089361588131598819',
+     encoding: '7bit',
+     mimetype: 'application/octet-stream',
+     path: '/home/vegas/vegasImage/upload/SVCPost_686026572406784_ot_13401945391872089361588131598819',
+     extension: '',
+     size: 2603403,
+     truncated: false,
+     buffer: null },
+  uploadThumb: 
+   { fieldname: 'uploadThumb',
+     originalname: 'SVCPost_686026572406784_ot_1340194539187208936_.undefined',
+     name: 'SVCPost_686026572406784_ot_1340194539187208936_1588131599082.undefined',
+     encoding: '7bit',
+     mimetype: 'application/octet-stream',
+     path: '/home/vegas/vegasImage/upload/SVCPost_686026572406784_ot_1340194539187208936_1588131599082.undefined',
+     extension: 'undefined',
+     size: 2071,
+     truncated: false,
+     buffer: null } }
+[2020-04-29 12:39:59.083] [INFO] vegasImage - file move = /home/vegas/vegasImage/public/image/480/202004/medical/source/picture_38862_20200429123958_5ablr6k9ksjs8q.jpg
+[2020-04-29 12:39:59.083] [INFO] vegasImage - file move = /home/vegas/vegasImage/public/image/480/202004/medical/75x100/picture_38862_20200429123958_5ablr6k9ksjs8q.jpg
+[2020-04-29 12:44:35.570] [INFO] app - uploadThumb is starting ...
+[2020-04-29 12:44:35.571] [INFO] app - uploadImage is starting ...
+[2020-04-29 12:44:35.572] [INFO] app - uploadThumb uploaded to  /home/vegas/vegasImage/upload/uploadThumb1588131875570
+[2020-04-29 12:44:35.902] [INFO] app - uploadImage uploaded to  /home/vegas/vegasImage/upload/uploadImage1588131875571
+[2020-04-29 12:44:35.902] [INFO] vegasImage - saveMedicalImage : uploadInfo = {"IMAGEPATH":"0429/paper_38862_20200429124437.png","ORGID":480}
+[2020-04-29 12:44:35.903] [INFO] vegasImage - saveMedicalImage : req.files={ uploadThumb: 
+   { fieldname: 'uploadThumb',
+     originalname: 'uploadThumb',
+     name: 'uploadThumb1588131875570',
+     encoding: '7bit',
+     mimetype: 'multipart/form-data',
+     path: '/home/vegas/vegasImage/upload/uploadThumb1588131875570',
+     extension: '',
+     size: 3463,
+     truncated: false,
+     buffer: null },
+  uploadImage: 
+   { fieldname: 'uploadImage',
+     originalname: 'uploadImage',
+     name: 'uploadImage1588131875571',
+     encoding: '7bit',
+     mimetype: 'multipart/form-data',
+     path: '/home/vegas/vegasImage/upload/uploadImage1588131875571',
+     extension: '',
+     size: 551027,
+     truncated: false,
+     buffer: null } }
+[2020-04-29 12:44:35.904] [INFO] vegasImage - file move = /home/vegas/vegasImage/public/image/480/202004/medical/source/paper_38862_20200429124437.png
+[2020-04-29 12:44:35.904] [INFO] vegasImage - file move = /home/vegas/vegasImage/public/image/480/202004/medical/75x100/paper_38862_20200429124437.png
+[2020-04-29 13:18:30.907] [INFO] app - uploadThumb is starting ...
+[2020-04-29 13:18:30.907] [INFO] app - uploadImage is starting ...
+[2020-04-29 13:18:30.908] [INFO] app - uploadThumb uploaded to  /home/vegas/vegasImage/upload/uploadThumb1588133910907
+[2020-04-29 13:18:30.969] [INFO] app - uploadImage uploaded to  /home/vegas/vegasImage/upload/uploadImage1588133910907
+[2020-04-29 13:18:30.970] [INFO] vegasImage - saveMedicalImage : uploadInfo = {"IMAGEPATH":"0429/paper_36917_20200429131832.png","ORGID":480}
+[2020-04-29 13:18:30.970] [INFO] vegasImage - saveMedicalImage : req.files={ uploadThumb: 
+   { fieldname: 'uploadThumb',
+     originalname: 'uploadThumb',
+     name: 'uploadThumb1588133910907',
+     encoding: '7bit',
+     mimetype: 'multipart/form-data',
+     path: '/home/vegas/vegasImage/upload/uploadThumb1588133910907',
+     extension: '',
+     size: 2323,
+     truncated: false,
+     buffer: null },
+  uploadImage: 
+   { fieldname: 'uploadImage',
+     originalname: 'uploadImage',
+     name: 'uploadImage1588133910907',
+     encoding: '7bit',
+     mimetype: 'multipart/form-data',
+     path: '/home/vegas/vegasImage/upload/uploadImage1588133910907',
+     extension: '',
+     size: 355523,
+     truncated: false,
+     buffer: null } }
+[2020-04-29 13:18:30.971] [INFO] vegasImage - file move = /home/vegas/vegasImage/public/image/480/202004/medical/source/paper_36917_20200429131832.png
+[2020-04-29 13:18:30.971] [INFO] vegasImage - file move = /home/vegas/vegasImage/public/image/480/202004/medical/75x100/paper_36917_20200429131832.png
+[2020-04-29 13:20:24.285] [INFO] app - uploadThumb is starting ...
+[2020-04-29 13:20:24.285] [INFO] app - uploadImage is starting ...
+[2020-04-29 13:20:24.286] [INFO] app - uploadThumb uploaded to  /home/vegas/vegasImage/upload/uploadThumb1588134024284
+[2020-04-29 13:20:24.346] [INFO] app - uploadImage uploaded to  /home/vegas/vegasImage/upload/uploadImage1588134024285
+[2020-04-29 13:20:24.347] [INFO] vegasImage - saveMedicalImage : uploadInfo = {"IMAGEPATH":"0429/paper_36917_20200429132025.png","ORGID":480}
+[2020-04-29 13:20:24.347] [INFO] vegasImage - saveMedicalImage : req.files={ uploadThumb: 
+   { fieldname: 'uploadThumb',
+     originalname: 'uploadThumb',
+     name: 'uploadThumb1588134024284',
+     encoding: '7bit',
+     mimetype: 'multipart/form-data',
+     path: '/home/vegas/vegasImage/upload/uploadThumb1588134024284',
+     extension: '',
+     size: 2471,
+     truncated: false,
+     buffer: null },
+  uploadImage: 
+   { fieldname: 'uploadImage',
+     originalname: 'uploadImage',
+     name: 'uploadImage1588134024285',
+     encoding: '7bit',
+     mimetype: 'multipart/form-data',
+     path: '/home/vegas/vegasImage/upload/uploadImage1588134024285',
+     extension: '',
+     size: 414856,
+     truncated: false,
+     buffer: null } }
+[2020-04-29 13:20:24.348] [INFO] vegasImage - file move = /home/vegas/vegasImage/public/image/480/202004/medical/source/paper_36917_20200429132025.png
+[2020-04-29 13:20:24.348] [INFO] vegasImage - file move = /home/vegas/vegasImage/public/image/480/202004/medical/75x100/paper_36917_20200429132025.png
+[2020-04-29 13:21:47.791] [INFO] app - uploadThumb is starting ...
+[2020-04-29 13:21:47.791] [INFO] app - uploadImage is starting ...
+[2020-04-29 13:21:47.791] [INFO] app - uploadThumb uploaded to  /home/vegas/vegasImage/upload/uploadThumb1588134107791
+[2020-04-29 13:21:47.837] [INFO] app - uploadImage uploaded to  /home/vegas/vegasImage/upload/uploadImage1588134107791
+[2020-04-29 13:21:47.837] [INFO] vegasImage - saveMedicalImage : uploadInfo = {"IMAGEPATH":"0429/paper_36917_20200429132149.png","ORGID":480}
+[2020-04-29 13:21:47.837] [INFO] vegasImage - saveMedicalImage : req.files={ uploadThumb: 
+   { fieldname: 'uploadThumb',
+     originalname: 'uploadThumb',
+     name: 'uploadThumb1588134107791',
+     encoding: '7bit',
+     mimetype: 'multipart/form-data',
+     path: '/home/vegas/vegasImage/upload/uploadThumb1588134107791',
+     extension: '',
+     size: 2111,
+     truncated: false,
+     buffer: null },
+  uploadImage: 
+   { fieldname: 'uploadImage',
+     originalname: 'uploadImage',
+     name: 'uploadImage1588134107791',
+     encoding: '7bit',
+     mimetype: 'multipart/form-data',
+     path: '/home/vegas/vegasImage/upload/uploadImage1588134107791',
+     extension: '',
+     size: 356452,
+     truncated: false,
+     buffer: null } }
+[2020-04-29 13:21:47.838] [INFO] vegasImage - file move = /home/vegas/vegasImage/public/image/480/202004/medical/source/paper_36917_20200429132149.png
+[2020-04-29 13:21:47.838] [INFO] vegasImage - file move = /home/vegas/vegasImage/public/image/480/202004/medical/75x100/paper_36917_20200429132149.png
+[2020-04-29 13:23:44.063] [INFO] app - uploadThumb is starting ...
+[2020-04-29 13:23:44.063] [INFO] app - uploadImage is starting ...
+[2020-04-29 13:23:44.063] [INFO] app - uploadThumb uploaded to  /home/vegas/vegasImage/upload/uploadThumb1588134224063
+[2020-04-29 13:23:44.622] [INFO] app - uploadImage uploaded to  /home/vegas/vegasImage/upload/uploadImage1588134224063
+[2020-04-29 13:23:44.622] [INFO] vegasImage - saveMedicalImage : uploadInfo = {"IMAGEPATH":"0429/paper_36917_20200429132345.png","ORGID":480}
+[2020-04-29 13:23:44.623] [INFO] vegasImage - saveMedicalImage : req.files={ uploadThumb: 
+   { fieldname: 'uploadThumb',
+     originalname: 'uploadThumb',
+     name: 'uploadThumb1588134224063',
+     encoding: '7bit',
+     mimetype: 'multipart/form-data',
+     path: '/home/vegas/vegasImage/upload/uploadThumb1588134224063',
+     extension: '',
+     size: 4709,
+     truncated: false,
+     buffer: null },
+  uploadImage: 
+   { fieldname: 'uploadImage',
+     originalname: 'uploadImage',
+     name: 'uploadImage1588134224063',
+     encoding: '7bit',
+     mimetype: 'multipart/form-data',
+     path: '/home/vegas/vegasImage/upload/uploadImage1588134224063',
+     extension: '',
+     size: 1853425,
+     truncated: false,
+     buffer: null } }
+[2020-04-29 13:23:44.624] [INFO] vegasImage - file move = /home/vegas/vegasImage/public/image/480/202004/medical/source/paper_36917_20200429132345.png
+[2020-04-29 13:23:44.624] [INFO] vegasImage - file move = /home/vegas/vegasImage/public/image/480/202004/medical/75x100/paper_36917_20200429132345.png
+[2020-04-29 13:33:19.628] [INFO] app - uploadThumb is starting ...
+[2020-04-29 13:33:19.629] [INFO] app - uploadImage is starting ...
+[2020-04-29 13:33:19.629] [INFO] app - uploadThumb uploaded to  /home/vegas/vegasImage/upload/uploadThumb1588134799628
+[2020-04-29 13:33:19.732] [INFO] app - uploadImage uploaded to  /home/vegas/vegasImage/upload/uploadImage1588134799629
+[2020-04-29 13:33:19.732] [INFO] vegasImage - saveMedicalImage : uploadInfo = {"IMAGEPATH":"0429/paper_25341_20200429133320.png","ORGID":480}
+[2020-04-29 13:33:19.732] [INFO] vegasImage - saveMedicalImage : req.files={ uploadThumb: 
+   { fieldname: 'uploadThumb',
+     originalname: 'uploadThumb',
+     name: 'uploadThumb1588134799628',
+     encoding: '7bit',
+     mimetype: 'multipart/form-data',
+     path: '/home/vegas/vegasImage/upload/uploadThumb1588134799628',
+     extension: '',
+     size: 2595,
+     truncated: false,
+     buffer: null },
+  uploadImage: 
+   { fieldname: 'uploadImage',
+     originalname: 'uploadImage',
+     name: 'uploadImage1588134799629',
+     encoding: '7bit',
+     mimetype: 'multipart/form-data',
+     path: '/home/vegas/vegasImage/upload/uploadImage1588134799629',
+     extension: '',
+     size: 373646,
+     truncated: false,
+     buffer: null } }
+[2020-04-29 13:33:19.733] [INFO] vegasImage - file move = /home/vegas/vegasImage/public/image/480/202004/medical/source/paper_25341_20200429133320.png
+[2020-04-29 13:33:19.733] [INFO] vegasImage - file move = /home/vegas/vegasImage/public/image/480/202004/medical/75x100/paper_25341_20200429133320.png
+[2020-04-29 13:34:59.920] [INFO] app - uploadThumb is starting ...
+[2020-04-29 13:34:59.921] [INFO] app - uploadImage is starting ...
+[2020-04-29 13:34:59.922] [INFO] app - uploadThumb uploaded to  /home/vegas/vegasImage/upload/uploadThumb1588134899920
+[2020-04-29 13:35:00.222] [INFO] app - uploadImage uploaded to  /home/vegas/vegasImage/upload/uploadImage1588134899921
+[2020-04-29 13:35:00.222] [INFO] vegasImage - saveMedicalImage : uploadInfo = {"IMAGEPATH":"0429/paper_25341_20200429133501.png","ORGID":480}
+[2020-04-29 13:35:00.223] [INFO] vegasImage - saveMedicalImage : req.files={ uploadThumb: 
+   { fieldname: 'uploadThumb',
+     originalname: 'uploadThumb',
+     name: 'uploadThumb1588134899920',
+     encoding: '7bit',
+     mimetype: 'multipart/form-data',
+     path: '/home/vegas/vegasImage/upload/uploadThumb1588134899920',
+     extension: '',
+     size: 2714,
+     truncated: false,
+     buffer: null },
+  uploadImage: 
+   { fieldname: 'uploadImage',
+     originalname: 'uploadImage',
+     name: 'uploadImage1588134899921',
+     encoding: '7bit',
+     mimetype: 'multipart/form-data',
+     path: '/home/vegas/vegasImage/upload/uploadImage1588134899921',
+     extension: '',
+     size: 469256,
+     truncated: false,
+     buffer: null } }
+[2020-04-29 13:35:00.223] [INFO] vegasImage - file move = /home/vegas/vegasImage/public/image/480/202004/medical/source/paper_25341_20200429133501.png
+[2020-04-29 13:35:00.224] [INFO] vegasImage - file move = /home/vegas/vegasImage/public/image/480/202004/medical/75x100/paper_25341_20200429133501.png
+[2020-04-29 13:37:07.362] [INFO] app - uploadThumb is starting ...
+[2020-04-29 13:37:07.362] [INFO] app - uploadImage is starting ...
+[2020-04-29 13:37:07.363] [INFO] app - uploadThumb uploaded to  /home/vegas/vegasImage/upload/uploadThumb1588135027362
+[2020-04-29 13:37:07.688] [INFO] app - uploadImage uploaded to  /home/vegas/vegasImage/upload/uploadImage1588135027362
+[2020-04-29 13:37:07.689] [INFO] vegasImage - saveMedicalImage : uploadInfo = {"IMAGEPATH":"0429/paper_25341_20200429133708.png","ORGID":480}
+[2020-04-29 13:37:07.689] [INFO] vegasImage - saveMedicalImage : req.files={ uploadThumb: 
+   { fieldname: 'uploadThumb',
+     originalname: 'uploadThumb',
+     name: 'uploadThumb1588135027362',
+     encoding: '7bit',
+     mimetype: 'multipart/form-data',
+     path: '/home/vegas/vegasImage/upload/uploadThumb1588135027362',
+     extension: '',
+     size: 4624,
+     truncated: false,
+     buffer: null },
+  uploadImage: 
+   { fieldname: 'uploadImage',
+     originalname: 'uploadImage',
+     name: 'uploadImage1588135027362',
+     encoding: '7bit',
+     mimetype: 'multipart/form-data',
+     path: '/home/vegas/vegasImage/upload/uploadImage1588135027362',
+     extension: '',
+     size: 1853681,
+     truncated: false,
+     buffer: null } }
+[2020-04-29 13:37:07.689] [INFO] vegasImage - file move = /home/vegas/vegasImage/public/image/480/202004/medical/source/paper_25341_20200429133708.png
+[2020-04-29 13:37:07.689] [INFO] vegasImage - file move = /home/vegas/vegasImage/public/image/480/202004/medical/75x100/paper_25341_20200429133708.png
+[2020-04-29 13:37:52.013] [INFO] app - uploadThumb is starting ...
+[2020-04-29 13:37:52.014] [INFO] app - uploadImage is starting ...
+[2020-04-29 13:37:52.015] [INFO] app - uploadThumb uploaded to  /home/vegas/vegasImage/upload/uploadThumb1588135072013
+[2020-04-29 13:37:52.075] [INFO] app - uploadImage uploaded to  /home/vegas/vegasImage/upload/uploadImage1588135072014
+[2020-04-29 13:37:52.075] [INFO] vegasImage - saveMedicalImage : uploadInfo = {"IMAGEPATH":"0429/paper_38941_20200429133752.png","ORGID":480}
+[2020-04-29 13:37:52.076] [INFO] vegasImage - saveMedicalImage : req.files={ uploadThumb: 
+   { fieldname: 'uploadThumb',
+     originalname: 'uploadThumb',
+     name: 'uploadThumb1588135072013',
+     encoding: '7bit',
+     mimetype: 'multipart/form-data',
+     path: '/home/vegas/vegasImage/upload/uploadThumb1588135072013',
+     extension: '',
+     size: 1127,
+     truncated: false,
+     buffer: null },
+  uploadImage: 
+   { fieldname: 'uploadImage',
+     originalname: 'uploadImage',
+     name: 'uploadImage1588135072014',
+     encoding: '7bit',
+     mimetype: 'multipart/form-data',
+     path: '/home/vegas/vegasImage/upload/uploadImage1588135072014',
+     extension: '',
+     size: 197750,
+     truncated: false,
+     buffer: null } }
+[2020-04-29 13:37:52.076] [INFO] vegasImage - file move = /home/vegas/vegasImage/public/image/480/202004/medical/source/paper_38941_20200429133752.png
+[2020-04-29 13:37:52.076] [INFO] vegasImage - file move = /home/vegas/vegasImage/public/image/480/202004/medical/75x100/paper_38941_20200429133752.png
+[2020-04-29 13:39:09.686] [INFO] app - uploadThumb is starting ...
+[2020-04-29 13:39:09.687] [INFO] app - uploadImage is starting ...
+[2020-04-29 13:39:09.688] [INFO] app - uploadThumb uploaded to  /home/vegas/vegasImage/upload/uploadThumb1588135149686
+[2020-04-29 13:39:09.731] [INFO] app - uploadImage uploaded to  /home/vegas/vegasImage/upload/uploadImage1588135149687
+[2020-04-29 13:39:09.731] [INFO] vegasImage - saveMedicalImage : uploadInfo = {"IMAGEPATH":"202004/paper_38941_20200429133752.png","ORGID":480}
+[2020-04-29 13:39:09.731] [INFO] vegasImage - saveMedicalImage : req.files={ uploadThumb: 
+   { fieldname: 'uploadThumb',
+     originalname: 'uploadThumb',
+     name: 'uploadThumb1588135149686',
+     encoding: '7bit',
+     mimetype: 'multipart/form-data',
+     path: '/home/vegas/vegasImage/upload/uploadThumb1588135149686',
+     extension: '',
+     size: 1127,
+     truncated: false,
+     buffer: null },
+  uploadImage: 
+   { fieldname: 'uploadImage',
+     originalname: 'uploadImage',
+     name: 'uploadImage1588135149687',
+     encoding: '7bit',
+     mimetype: 'multipart/form-data',
+     path: '/home/vegas/vegasImage/upload/uploadImage1588135149687',
+     extension: '',
+     size: 197750,
+     truncated: false,
+     buffer: null } }
+[2020-04-29 13:39:09.731] [INFO] vegasImage - file move = /home/vegas/vegasImage/public/image/480/202004/medical/source/paper_38941_20200429133752.png
+[2020-04-29 13:39:09.731] [INFO] vegasImage - file move = /home/vegas/vegasImage/public/image/480/202004/medical/75x100/paper_38941_20200429133752.png
+[2020-04-29 13:42:48.793] [INFO] app - uploadThumb is starting ...
+[2020-04-29 13:42:48.794] [INFO] app - uploadImage is starting ...
+[2020-04-29 13:42:48.794] [INFO] app - uploadThumb uploaded to  /home/vegas/vegasImage/upload/uploadThumb1588135368793
+[2020-04-29 13:42:49.213] [INFO] app - uploadImage uploaded to  /home/vegas/vegasImage/upload/uploadImage1588135368794
+[2020-04-29 13:42:49.213] [INFO] vegasImage - saveMedicalImage : uploadInfo = {"IMAGEPATH":"0429/paper_38864_20200429134248.png","ORGID":480}
+[2020-04-29 13:42:49.214] [INFO] vegasImage - saveMedicalImage : req.files={ uploadThumb: 
+   { fieldname: 'uploadThumb',
+     originalname: 'uploadThumb',
+     name: 'uploadThumb1588135368793',
+     encoding: '7bit',
+     mimetype: 'multipart/form-data',
+     path: '/home/vegas/vegasImage/upload/uploadThumb1588135368793',
+     extension: '',
+     size: 5375,
+     truncated: false,
+     buffer: null },
+  uploadImage: 
+   { fieldname: 'uploadImage',
+     originalname: 'uploadImage',
+     name: 'uploadImage1588135368794',
+     encoding: '7bit',
+     mimetype: 'multipart/form-data',
+     path: '/home/vegas/vegasImage/upload/uploadImage1588135368794',
+     extension: '',
+     size: 1092906,
+     truncated: false,
+     buffer: null } }
+[2020-04-29 13:42:49.215] [INFO] vegasImage - file move = /home/vegas/vegasImage/public/image/480/202004/medical/source/paper_38864_20200429134248.png
+[2020-04-29 13:42:49.215] [INFO] vegasImage - file move = /home/vegas/vegasImage/public/image/480/202004/medical/75x100/paper_38864_20200429134248.png
+[2020-04-29 13:44:00.867] [INFO] app - uploadThumb is starting ...
+[2020-04-29 13:44:00.868] [INFO] app - uploadImage is starting ...
+[2020-04-29 13:44:00.869] [INFO] app - uploadThumb uploaded to  /home/vegas/vegasImage/upload/uploadThumb1588135440867
+[2020-04-29 13:44:00.974] [INFO] app - uploadImage uploaded to  /home/vegas/vegasImage/upload/uploadImage1588135440868
+[2020-04-29 13:44:00.974] [INFO] vegasImage - saveMedicalImage : uploadInfo = {"IMAGEPATH":"0429/paper_38864_20200429134400.png","ORGID":480}
+[2020-04-29 13:44:00.974] [INFO] vegasImage - saveMedicalImage : req.files={ uploadThumb: 
+   { fieldname: 'uploadThumb',
+     originalname: 'uploadThumb',
+     name: 'uploadThumb1588135440867',
+     encoding: '7bit',
+     mimetype: 'multipart/form-data',
+     path: '/home/vegas/vegasImage/upload/uploadThumb1588135440867',
+     extension: '',
+     size: 3249,
+     truncated: false,
+     buffer: null },
+  uploadImage: 
+   { fieldname: 'uploadImage',
+     originalname: 'uploadImage',
+     name: 'uploadImage1588135440868',
+     encoding: '7bit',
+     mimetype: 'multipart/form-data',
+     path: '/home/vegas/vegasImage/upload/uploadImage1588135440868',
+     extension: '',
+     size: 504658,
+     truncated: false,
+     buffer: null } }
+[2020-04-29 13:44:00.974] [INFO] vegasImage - file move = /home/vegas/vegasImage/public/image/480/202004/medical/source/paper_38864_20200429134400.png
+[2020-04-29 13:44:00.975] [INFO] vegasImage - file move = /home/vegas/vegasImage/public/image/480/202004/medical/75x100/paper_38864_20200429134400.png
+[2020-04-29 13:50:20.123] [INFO] app - uploadThumb is starting ...
+[2020-04-29 13:50:20.123] [INFO] app - uploadImage is starting ...
+[2020-04-29 13:50:20.125] [INFO] app - uploadThumb uploaded to  /home/vegas/vegasImage/upload/uploadThumb1588135820122
+[2020-04-29 13:50:20.280] [INFO] app - uploadImage uploaded to  /home/vegas/vegasImage/upload/uploadImage1588135820123
+[2020-04-29 13:50:20.280] [INFO] vegasImage - saveMedicalImage : uploadInfo = {"IMAGEPATH":"0429/paper_37959_20200429135021.png","ORGID":480}
+[2020-04-29 13:50:20.280] [INFO] vegasImage - saveMedicalImage : req.files={ uploadThumb: 
+   { fieldname: 'uploadThumb',
+     originalname: 'uploadThumb',
+     name: 'uploadThumb1588135820122',
+     encoding: '7bit',
+     mimetype: 'multipart/form-data',
+     path: '/home/vegas/vegasImage/upload/uploadThumb1588135820122',
+     extension: '',
+     size: 2279,
+     truncated: false,
+     buffer: null },
+  uploadImage: 
+   { fieldname: 'uploadImage',
+     originalname: 'uploadImage',
+     name: 'uploadImage1588135820123',
+     encoding: '7bit',
+     mimetype: 'multipart/form-data',
+     path: '/home/vegas/vegasImage/upload/uploadImage1588135820123',
+     extension: '',
+     size: 340450,
+     truncated: false,
+     buffer: null } }
+[2020-04-29 13:50:20.280] [INFO] vegasImage - file move = /home/vegas/vegasImage/public/image/480/202004/medical/source/paper_37959_20200429135021.png
+[2020-04-29 13:50:20.280] [INFO] vegasImage - file move = /home/vegas/vegasImage/public/image/480/202004/medical/75x100/paper_37959_20200429135021.png
+[2020-04-29 13:50:35.852] [INFO] app - uploadThumb is starting ...
+[2020-04-29 13:50:35.854] [INFO] app - uploadImage is starting ...
+[2020-04-29 13:50:35.854] [INFO] app - uploadThumb uploaded to  /home/vegas/vegasImage/upload/uploadThumb1588135835852
+[2020-04-29 13:50:35.913] [INFO] app - uploadImage uploaded to  /home/vegas/vegasImage/upload/uploadImage1588135835853
+[2020-04-29 13:50:35.914] [INFO] vegasImage - saveMedicalImage : uploadInfo = {"IMAGEPATH":"0429/paper_38886_20200429135037.png","ORGID":480}
+[2020-04-29 13:50:35.915] [INFO] vegasImage - saveMedicalImage : req.files={ uploadThumb: 
+   { fieldname: 'uploadThumb',
+     originalname: 'uploadThumb',
+     name: 'uploadThumb1588135835852',
+     encoding: '7bit',
+     mimetype: 'multipart/form-data',
+     path: '/home/vegas/vegasImage/upload/uploadThumb1588135835852',
+     extension: '',
+     size: 1403,
+     truncated: false,
+     buffer: null },
+  uploadImage: 
+   { fieldname: 'uploadImage',
+     originalname: 'uploadImage',
+     name: 'uploadImage1588135835853',
+     encoding: '7bit',
+     mimetype: 'multipart/form-data',
+     path: '/home/vegas/vegasImage/upload/uploadImage1588135835853',
+     extension: '',
+     size: 251413,
+     truncated: false,
+     buffer: null } }
+[2020-04-29 13:50:35.915] [INFO] vegasImage - file move = /home/vegas/vegasImage/public/image/480/202004/medical/source/paper_38886_20200429135037.png
+[2020-04-29 13:50:35.915] [INFO] vegasImage - file move = /home/vegas/vegasImage/public/image/480/202004/medical/75x100/paper_38886_20200429135037.png
+[2020-04-29 13:51:56.491] [INFO] app - uploadThumb is starting ...
+[2020-04-29 13:51:56.492] [INFO] app - uploadImage is starting ...
+[2020-04-29 13:51:56.493] [INFO] app - uploadThumb uploaded to  /home/vegas/vegasImage/upload/uploadThumb1588135916491
+[2020-04-29 13:51:56.549] [INFO] app - uploadImage uploaded to  /home/vegas/vegasImage/upload/uploadImage1588135916492
+[2020-04-29 13:51:56.549] [INFO] vegasImage - saveMedicalImage : uploadInfo = {"IMAGEPATH":"0429/paper_37959_20200429135157.png","ORGID":480}
+[2020-04-29 13:51:56.550] [INFO] vegasImage - saveMedicalImage : req.files={ uploadThumb: 
+   { fieldname: 'uploadThumb',
+     originalname: 'uploadThumb',
+     name: 'uploadThumb1588135916491',
+     encoding: '7bit',
+     mimetype: 'multipart/form-data',
+     path: '/home/vegas/vegasImage/upload/uploadThumb1588135916491',
+     extension: '',
+     size: 2415,
+     truncated: false,
+     buffer: null },
+  uploadImage: 
+   { fieldname: 'uploadImage',
+     originalname: 'uploadImage',
+     name: 'uploadImage1588135916492',
+     encoding: '7bit',
+     mimetype: 'multipart/form-data',
+     path: '/home/vegas/vegasImage/upload/uploadImage1588135916492',
+     extension: '',
+     size: 408824,
+     truncated: false,
+     buffer: null } }
+[2020-04-29 13:51:56.550] [INFO] vegasImage - file move = /home/vegas/vegasImage/public/image/480/202004/medical/source/paper_37959_20200429135157.png
+[2020-04-29 13:51:56.550] [INFO] vegasImage - file move = /home/vegas/vegasImage/public/image/480/202004/medical/75x100/paper_37959_20200429135157.png
+[2020-04-29 13:53:40.900] [INFO] app - uploadThumb is starting ...
+[2020-04-29 13:53:40.900] [INFO] app - uploadImage is starting ...
+[2020-04-29 13:53:40.900] [INFO] app - uploadThumb uploaded to  /home/vegas/vegasImage/upload/uploadThumb1588136020900
+[2020-04-29 13:53:41.250] [INFO] app - uploadImage uploaded to  /home/vegas/vegasImage/upload/uploadImage1588136020900
+[2020-04-29 13:53:41.251] [INFO] vegasImage - saveMedicalImage : uploadInfo = {"IMAGEPATH":"0429/paper_37959_20200429135342.png","ORGID":480}
+[2020-04-29 13:53:41.252] [INFO] vegasImage - saveMedicalImage : req.files={ uploadThumb: 
+   { fieldname: 'uploadThumb',
+     originalname: 'uploadThumb',
+     name: 'uploadThumb1588136020900',
+     encoding: '7bit',
+     mimetype: 'multipart/form-data',
+     path: '/home/vegas/vegasImage/upload/uploadThumb1588136020900',
+     extension: '',
+     size: 4687,
+     truncated: false,
+     buffer: null },
+  uploadImage: 
+   { fieldname: 'uploadImage',
+     originalname: 'uploadImage',
+     name: 'uploadImage1588136020900',
+     encoding: '7bit',
+     mimetype: 'multipart/form-data',
+     path: '/home/vegas/vegasImage/upload/uploadImage1588136020900',
+     extension: '',
+     size: 1838435,
+     truncated: false,
+     buffer: null } }
+[2020-04-29 13:53:41.253] [INFO] vegasImage - file move = /home/vegas/vegasImage/public/image/480/202004/medical/source/paper_37959_20200429135342.png
+[2020-04-29 13:53:41.254] [INFO] vegasImage - file move = /home/vegas/vegasImage/public/image/480/202004/medical/75x100/paper_37959_20200429135342.png
+[2020-04-29 14:09:10.674] [INFO] app - uploadThumb is starting ...
+[2020-04-29 14:09:10.675] [INFO] app - uploadImage is starting ...
+[2020-04-29 14:09:10.677] [INFO] app - uploadThumb uploaded to  /home/vegas/vegasImage/upload/uploadThumb1588136950674
+[2020-04-29 14:09:10.891] [INFO] app - uploadImage uploaded to  /home/vegas/vegasImage/upload/uploadImage1588136950675
+[2020-04-29 14:09:10.891] [INFO] vegasImage - saveMedicalImage : uploadInfo = {"IMAGEPATH":"0429/paper_38928_20200429140912.png","ORGID":480}
+[2020-04-29 14:09:10.892] [INFO] vegasImage - saveMedicalImage : req.files={ uploadThumb: 
+   { fieldname: 'uploadThumb',
+     originalname: 'uploadThumb',
+     name: 'uploadThumb1588136950674',
+     encoding: '7bit',
+     mimetype: 'multipart/form-data',
+     path: '/home/vegas/vegasImage/upload/uploadThumb1588136950674',
+     extension: '',
+     size: 5549,
+     truncated: false,
+     buffer: null },
+  uploadImage: 
+   { fieldname: 'uploadImage',
+     originalname: 'uploadImage',
+     name: 'uploadImage1588136950675',
+     encoding: '7bit',
+     mimetype: 'multipart/form-data',
+     path: '/home/vegas/vegasImage/upload/uploadImage1588136950675',
+     extension: '',
+     size: 908277,
+     truncated: false,
+     buffer: null } }
+[2020-04-29 14:09:10.893] [INFO] vegasImage - file move = /home/vegas/vegasImage/public/image/480/202004/medical/source/paper_38928_20200429140912.png
+[2020-04-29 14:09:10.893] [INFO] vegasImage - file move = /home/vegas/vegasImage/public/image/480/202004/medical/75x100/paper_38928_20200429140912.png
+[2020-04-29 14:10:03.946] [INFO] app - uploadThumb is starting ...
+[2020-04-29 14:10:03.946] [INFO] app - uploadImage is starting ...
+[2020-04-29 14:10:03.947] [INFO] app - uploadThumb uploaded to  /home/vegas/vegasImage/upload/uploadThumb1588137003946
+[2020-04-29 14:10:04.313] [INFO] app - uploadImage uploaded to  /home/vegas/vegasImage/upload/uploadImage1588137003946
+[2020-04-29 14:10:04.314] [INFO] vegasImage - saveMedicalImage : uploadInfo = {"IMAGEPATH":"202004/paper_38928_20200429140912.png","ORGID":480}
+[2020-04-29 14:10:04.314] [INFO] vegasImage - saveMedicalImage : req.files={ uploadThumb: 
+   { fieldname: 'uploadThumb',
+     originalname: 'uploadThumb',
+     name: 'uploadThumb1588137003946',
+     encoding: '7bit',
+     mimetype: 'multipart/form-data',
+     path: '/home/vegas/vegasImage/upload/uploadThumb1588137003946',
+     extension: '',
+     size: 5549,
+     truncated: false,
+     buffer: null },
+  uploadImage: 
+   { fieldname: 'uploadImage',
+     originalname: 'uploadImage',
+     name: 'uploadImage1588137003946',
+     encoding: '7bit',
+     mimetype: 'multipart/form-data',
+     path: '/home/vegas/vegasImage/upload/uploadImage1588137003946',
+     extension: '',
+     size: 908277,
+     truncated: false,
+     buffer: null } }
+[2020-04-29 14:10:04.314] [INFO] vegasImage - file move = /home/vegas/vegasImage/public/image/480/202004/medical/source/paper_38928_20200429140912.png
+[2020-04-29 14:10:04.314] [INFO] vegasImage - file move = /home/vegas/vegasImage/public/image/480/202004/medical/75x100/paper_38928_20200429140912.png
+[2020-04-29 14:10:33.407] [INFO] app - SVCPost_686048823844864_ot_4726779573357433758 is starting ...
+[2020-04-29 14:10:33.994] [INFO] app - SVCPost_686048823844864_ot_4726779573357433758_.undefined is starting ...
+[2020-04-29 14:10:33.994] [INFO] app - uploadImage uploaded to  /home/vegas/vegasImage/upload/SVCPost_686048823844864_ot_47267795733574337581588137033407
+[2020-04-29 14:10:33.995] [INFO] app - uploadThumb uploaded to  /home/vegas/vegasImage/upload/SVCPost_686048823844864_ot_4726779573357433758_1588137033994.undefined
+[2020-04-29 14:10:33.995] [INFO] vegasImage - saveMedicalImage : uploadInfo = {"IMAGEPATH":"202004/picture_36007_20200429141033_5ablr6k9kvs9kn.jpg","ORGID":480}
+[2020-04-29 14:10:33.995] [INFO] vegasImage - saveMedicalImage : req.files={ uploadImage: 
+   { fieldname: 'uploadImage',
+     originalname: 'SVCPost_686048823844864_ot_4726779573357433758',
+     name: 'SVCPost_686048823844864_ot_47267795733574337581588137033407',
+     encoding: '7bit',
+     mimetype: 'application/octet-stream',
+     path: '/home/vegas/vegasImage/upload/SVCPost_686048823844864_ot_47267795733574337581588137033407',
+     extension: '',
+     size: 6180682,
+     truncated: false,
+     buffer: null },
+  uploadThumb: 
+   { fieldname: 'uploadThumb',
+     originalname: 'SVCPost_686048823844864_ot_4726779573357433758_.undefined',
+     name: 'SVCPost_686048823844864_ot_4726779573357433758_1588137033994.undefined',
+     encoding: '7bit',
+     mimetype: 'application/octet-stream',
+     path: '/home/vegas/vegasImage/upload/SVCPost_686048823844864_ot_4726779573357433758_1588137033994.undefined',
+     extension: 'undefined',
+     size: 1989,
+     truncated: false,
+     buffer: null } }
+[2020-04-29 14:10:33.995] [INFO] vegasImage - file move = /home/vegas/vegasImage/public/image/480/202004/medical/source/picture_36007_20200429141033_5ablr6k9kvs9kn.jpg
+[2020-04-29 14:10:33.995] [INFO] vegasImage - file move = /home/vegas/vegasImage/public/image/480/202004/medical/75x100/picture_36007_20200429141033_5ablr6k9kvs9kn.jpg
+[2020-04-29 14:10:34.525] [INFO] app - SVCPost_686048748036096_ot_6701677798290432291 is starting ...
+[2020-04-29 14:10:35.014] [INFO] app - uploadImage uploaded to  /home/vegas/vegasImage/upload/SVCPost_686048748036096_ot_67016777982904322911588137034525
+[2020-04-29 14:10:35.014] [INFO] app - SVCPost_686048748036096_ot_6701677798290432291_.undefined is starting ...
+[2020-04-29 14:10:35.014] [INFO] app - uploadThumb uploaded to  /home/vegas/vegasImage/upload/SVCPost_686048748036096_ot_6701677798290432291_1588137035014.undefined
+[2020-04-29 14:10:35.014] [INFO] vegasImage - saveMedicalImage : uploadInfo = {"IMAGEPATH":"202004/picture_36007_20200429141034_5ablr6k9kvsag2.jpg","ORGID":480}
+[2020-04-29 14:10:35.015] [INFO] vegasImage - saveMedicalImage : req.files={ uploadImage: 
+   { fieldname: 'uploadImage',
+     originalname: 'SVCPost_686048748036096_ot_6701677798290432291',
+     name: 'SVCPost_686048748036096_ot_67016777982904322911588137034525',
+     encoding: '7bit',
+     mimetype: 'application/octet-stream',
+     path: '/home/vegas/vegasImage/upload/SVCPost_686048748036096_ot_67016777982904322911588137034525',
+     extension: '',
+     size: 4993782,
+     truncated: false,
+     buffer: null },
+  uploadThumb: 
+   { fieldname: 'uploadThumb',
+     originalname: 'SVCPost_686048748036096_ot_6701677798290432291_.undefined',
+     name: 'SVCPost_686048748036096_ot_6701677798290432291_1588137035014.undefined',
+     encoding: '7bit',
+     mimetype: 'application/octet-stream',
+     path: '/home/vegas/vegasImage/upload/SVCPost_686048748036096_ot_6701677798290432291_1588137035014.undefined',
+     extension: 'undefined',
+     size: 1820,
+     truncated: false,
+     buffer: null } }
+[2020-04-29 14:10:35.015] [INFO] vegasImage - file move = /home/vegas/vegasImage/public/image/480/202004/medical/source/picture_36007_20200429141034_5ablr6k9kvsag2.jpg
+[2020-04-29 14:10:35.015] [INFO] vegasImage - file move = /home/vegas/vegasImage/public/image/480/202004/medical/75x100/picture_36007_20200429141034_5ablr6k9kvsag2.jpg
+[2020-04-29 14:10:35.256] [INFO] app - SVCPost_686048685735936_ot_8387880524674213589 is starting ...
+[2020-04-29 14:10:35.740] [INFO] app - SVCPost_686048685735936_ot_8387880524674213589_.undefined is starting ...
+[2020-04-29 14:10:35.740] [INFO] app - uploadImage uploaded to  /home/vegas/vegasImage/upload/SVCPost_686048685735936_ot_83878805246742135891588137035256
+[2020-04-29 14:10:35.740] [INFO] app - uploadThumb uploaded to  /home/vegas/vegasImage/upload/SVCPost_686048685735936_ot_8387880524674213589_1588137035740.undefined
+[2020-04-29 14:10:35.740] [INFO] vegasImage - saveMedicalImage : uploadInfo = {"IMAGEPATH":"202004/picture_36007_20200429141035_5ablr6k9kvsb0e.jpg","ORGID":480}
+[2020-04-29 14:10:35.740] [INFO] vegasImage - saveMedicalImage : req.files={ uploadImage: 
+   { fieldname: 'uploadImage',
+     originalname: 'SVCPost_686048685735936_ot_8387880524674213589',
+     name: 'SVCPost_686048685735936_ot_83878805246742135891588137035256',
+     encoding: '7bit',
+     mimetype: 'application/octet-stream',
+     path: '/home/vegas/vegasImage/upload/SVCPost_686048685735936_ot_83878805246742135891588137035256',
+     extension: '',
+     size: 4918637,
+     truncated: false,
+     buffer: null },
+  uploadThumb: 
+   { fieldname: 'uploadThumb',
+     originalname: 'SVCPost_686048685735936_ot_8387880524674213589_.undefined',
+     name: 'SVCPost_686048685735936_ot_8387880524674213589_1588137035740.undefined',
+     encoding: '7bit',
+     mimetype: 'application/octet-stream',
+     path: '/home/vegas/vegasImage/upload/SVCPost_686048685735936_ot_8387880524674213589_1588137035740.undefined',
+     extension: 'undefined',
+     size: 2008,
+     truncated: false,
+     buffer: null } }
+[2020-04-29 14:10:35.741] [INFO] vegasImage - file move = /home/vegas/vegasImage/public/image/480/202004/medical/source/picture_36007_20200429141035_5ablr6k9kvsb0e.jpg
+[2020-04-29 14:10:35.741] [INFO] vegasImage - file move = /home/vegas/vegasImage/public/image/480/202004/medical/75x100/picture_36007_20200429141035_5ablr6k9kvsb0e.jpg
+[2020-04-29 14:13:35.156] [INFO] app - uploadThumb is starting ...
+[2020-04-29 14:13:35.156] [INFO] app - uploadImage is starting ...
+[2020-04-29 14:13:35.157] [INFO] app - uploadThumb uploaded to  /home/vegas/vegasImage/upload/uploadThumb1588137215156
+[2020-04-29 14:13:35.215] [INFO] app - uploadImage uploaded to  /home/vegas/vegasImage/upload/uploadImage1588137215156
+[2020-04-29 14:13:35.215] [INFO] vegasImage - saveMedicalImage : uploadInfo = {"IMAGEPATH":"0429/paper_38928_20200429141335.png","ORGID":480}
+[2020-04-29 14:13:35.216] [INFO] vegasImage - saveMedicalImage : req.files={ uploadThumb: 
+   { fieldname: 'uploadThumb',
+     originalname: 'uploadThumb',
+     name: 'uploadThumb1588137215156',
+     encoding: '7bit',
+     mimetype: 'multipart/form-data',
+     path: '/home/vegas/vegasImage/upload/uploadThumb1588137215156',
+     extension: '',
+     size: 1412,
+     truncated: false,
+     buffer: null },
+  uploadImage: 
+   { fieldname: 'uploadImage',
+     originalname: 'uploadImage',
+     name: 'uploadImage1588137215156',
+     encoding: '7bit',
+     mimetype: 'multipart/form-data',
+     path: '/home/vegas/vegasImage/upload/uploadImage1588137215156',
+     extension: '',
+     size: 184838,
+     truncated: false,
+     buffer: null } }
+[2020-04-29 14:13:35.217] [INFO] vegasImage - file move = /home/vegas/vegasImage/public/image/480/202004/medical/source/paper_38928_20200429141335.png
+[2020-04-29 14:13:35.217] [INFO] vegasImage - file move = /home/vegas/vegasImage/public/image/480/202004/medical/75x100/paper_38928_20200429141335.png
+[2020-04-29 16:28:57.973] [INFO] app - SVCPost_686082789298176_ot_1949233413279103689 is starting ...
+[2020-04-29 16:28:58.242] [INFO] app - SVCPost_686082789298176_ot_1949233413279103689_.undefined is starting ...
+[2020-04-29 16:28:58.243] [INFO] app - uploadImage uploaded to  /home/vegas/vegasImage/upload/SVCPost_686082789298176_ot_19492334132791036891588145337973
+[2020-04-29 16:28:58.243] [INFO] app - uploadThumb uploaded to  /home/vegas/vegasImage/upload/SVCPost_686082789298176_ot_1949233413279103689_1588145338242.undefined
+[2020-04-29 16:28:58.243] [INFO] vegasImage - saveMedicalImage : uploadInfo = {"IMAGEPATH":"202004/picture_36917_20200429162857_5ablr6k9l0q9fq.jpg","ORGID":480}
+[2020-04-29 16:28:58.243] [INFO] vegasImage - saveMedicalImage : req.files={ uploadImage: 
+   { fieldname: 'uploadImage',
+     originalname: 'SVCPost_686082789298176_ot_1949233413279103689',
+     name: 'SVCPost_686082789298176_ot_19492334132791036891588145337973',
+     encoding: '7bit',
+     mimetype: 'application/octet-stream',
+     path: '/home/vegas/vegasImage/upload/SVCPost_686082789298176_ot_19492334132791036891588145337973',
+     extension: '',
+     size: 3131897,
+     truncated: false,
+     buffer: null },
+  uploadThumb: 
+   { fieldname: 'uploadThumb',
+     originalname: 'SVCPost_686082789298176_ot_1949233413279103689_.undefined',
+     name: 'SVCPost_686082789298176_ot_1949233413279103689_1588145338242.undefined',
+     encoding: '7bit',
+     mimetype: 'application/octet-stream',
+     path: '/home/vegas/vegasImage/upload/SVCPost_686082789298176_ot_1949233413279103689_1588145338242.undefined',
+     extension: 'undefined',
+     size: 2356,
+     truncated: false,
+     buffer: null } }
+[2020-04-29 16:28:58.243] [INFO] vegasImage - file move = /home/vegas/vegasImage/public/image/480/202004/medical/source/picture_36917_20200429162857_5ablr6k9l0q9fq.jpg
+[2020-04-29 16:28:58.243] [INFO] vegasImage - file move = /home/vegas/vegasImage/public/image/480/202004/medical/75x100/picture_36917_20200429162857_5ablr6k9l0q9fq.jpg
+[2020-04-29 16:33:38.581] [INFO] app - uploadThumb is starting ...
+[2020-04-29 16:33:38.581] [INFO] app - uploadImage is starting ...
+[2020-04-29 16:33:38.582] [INFO] app - uploadThumb uploaded to  /home/vegas/vegasImage/upload/uploadThumb1588145618581
+[2020-04-29 16:33:38.887] [INFO] app - uploadImage uploaded to  /home/vegas/vegasImage/upload/uploadImage1588145618581
+[2020-04-29 16:33:38.887] [INFO] vegasImage - saveMedicalImage : uploadInfo = {"IMAGEPATH":"0429/paper_38897_20200429163339.png","ORGID":480}
+[2020-04-29 16:33:38.888] [INFO] vegasImage - saveMedicalImage : req.files={ uploadThumb: 
+   { fieldname: 'uploadThumb',
+     originalname: 'uploadThumb',
+     name: 'uploadThumb1588145618581',
+     encoding: '7bit',
+     mimetype: 'multipart/form-data',
+     path: '/home/vegas/vegasImage/upload/uploadThumb1588145618581',
+     extension: '',
+     size: 2512,
+     truncated: false,
+     buffer: null },
+  uploadImage: 
+   { fieldname: 'uploadImage',
+     originalname: 'uploadImage',
+     name: 'uploadImage1588145618581',
+     encoding: '7bit',
+     mimetype: 'multipart/form-data',
+     path: '/home/vegas/vegasImage/upload/uploadImage1588145618581',
+     extension: '',
+     size: 359824,
+     truncated: false,
+     buffer: null } }
+[2020-04-29 16:33:38.889] [INFO] vegasImage - file move = /home/vegas/vegasImage/public/image/480/202004/medical/source/paper_38897_20200429163339.png
+[2020-04-29 16:33:38.889] [INFO] vegasImage - file move = /home/vegas/vegasImage/public/image/480/202004/medical/75x100/paper_38897_20200429163339.png
+[2020-04-29 16:35:59.645] [INFO] app - uploadThumb is starting ...
+[2020-04-29 16:35:59.645] [INFO] app - uploadImage is starting ...
+[2020-04-29 16:35:59.646] [INFO] app - uploadThumb uploaded to  /home/vegas/vegasImage/upload/uploadThumb1588145759645
+[2020-04-29 16:36:00.053] [INFO] app - uploadImage uploaded to  /home/vegas/vegasImage/upload/uploadImage1588145759645
+[2020-04-29 16:36:00.053] [INFO] vegasImage - saveMedicalImage : uploadInfo = {"IMAGEPATH":"0429/paper_38897_20200429163600.png","ORGID":480}
+[2020-04-29 16:36:00.054] [INFO] vegasImage - saveMedicalImage : req.files={ uploadThumb: 
+   { fieldname: 'uploadThumb',
+     originalname: 'uploadThumb',
+     name: 'uploadThumb1588145759645',
+     encoding: '7bit',
+     mimetype: 'multipart/form-data',
+     path: '/home/vegas/vegasImage/upload/uploadThumb1588145759645',
+     extension: '',
+     size: 4652,
+     truncated: false,
+     buffer: null },
+  uploadImage: 
+   { fieldname: 'uploadImage',
+     originalname: 'uploadImage',
+     name: 'uploadImage1588145759645',
+     encoding: '7bit',
+     mimetype: 'multipart/form-data',
+     path: '/home/vegas/vegasImage/upload/uploadImage1588145759645',
+     extension: '',
+     size: 1847991,
+     truncated: false,
+     buffer: null } }
+[2020-04-29 16:36:00.054] [INFO] vegasImage - file move = /home/vegas/vegasImage/public/image/480/202004/medical/source/paper_38897_20200429163600.png
+[2020-04-29 16:36:00.054] [INFO] vegasImage - file move = /home/vegas/vegasImage/public/image/480/202004/medical/75x100/paper_38897_20200429163600.png
+[2020-04-29 16:46:09.423] [INFO] app - uploadThumb is starting ...
+[2020-04-29 16:46:09.424] [INFO] app - uploadImage is starting ...
+[2020-04-29 16:46:09.425] [INFO] app - uploadThumb uploaded to  /home/vegas/vegasImage/upload/uploadThumb1588146369423
+[2020-04-29 16:46:09.516] [INFO] app - uploadImage uploaded to  /home/vegas/vegasImage/upload/uploadImage1588146369424
+[2020-04-29 16:46:09.516] [INFO] vegasImage - saveMedicalImage : uploadInfo = {"IMAGEPATH":"0429/paper_35240_20200429164610.png","ORGID":480}
+[2020-04-29 16:46:09.517] [INFO] vegasImage - saveMedicalImage : req.files={ uploadThumb: 
+   { fieldname: 'uploadThumb',
+     originalname: 'uploadThumb',
+     name: 'uploadThumb1588146369423',
+     encoding: '7bit',
+     mimetype: 'multipart/form-data',
+     path: '/home/vegas/vegasImage/upload/uploadThumb1588146369423',
+     extension: '',
+     size: 2405,
+     truncated: false,
+     buffer: null },
+  uploadImage: 
+   { fieldname: 'uploadImage',
+     originalname: 'uploadImage',
+     name: 'uploadImage1588146369424',
+     encoding: '7bit',
+     mimetype: 'multipart/form-data',
+     path: '/home/vegas/vegasImage/upload/uploadImage1588146369424',
+     extension: '',
+     size: 350435,
+     truncated: false,
+     buffer: null } }
+[2020-04-29 16:46:09.517] [INFO] vegasImage - file move = /home/vegas/vegasImage/public/image/480/202004/medical/source/paper_35240_20200429164610.png
+[2020-04-29 16:46:09.518] [INFO] vegasImage - file move = /home/vegas/vegasImage/public/image/480/202004/medical/75x100/paper_35240_20200429164610.png
+[2020-04-29 16:47:26.655] [INFO] app - uploadThumb is starting ...
+[2020-04-29 16:47:26.655] [INFO] app - uploadImage is starting ...
+[2020-04-29 16:47:26.656] [INFO] app - uploadThumb uploaded to  /home/vegas/vegasImage/upload/uploadThumb1588146446655
+[2020-04-29 16:47:26.731] [INFO] app - uploadImage uploaded to  /home/vegas/vegasImage/upload/uploadImage1588146446655
+[2020-04-29 16:47:26.731] [INFO] vegasImage - saveMedicalImage : uploadInfo = {"IMAGEPATH":"0429/paper_35240_20200429164727.png","ORGID":480}
+[2020-04-29 16:47:26.731] [INFO] vegasImage - saveMedicalImage : req.files={ uploadThumb: 
+   { fieldname: 'uploadThumb',
+     originalname: 'uploadThumb',
+     name: 'uploadThumb1588146446655',
+     encoding: '7bit',
+     mimetype: 'multipart/form-data',
+     path: '/home/vegas/vegasImage/upload/uploadThumb1588146446655',
+     extension: '',
+     size: 2540,
+     truncated: false,
+     buffer: null },
+  uploadImage: 
+   { fieldname: 'uploadImage',
+     originalname: 'uploadImage',
+     name: 'uploadImage1588146446655',
+     encoding: '7bit',
+     mimetype: 'multipart/form-data',
+     path: '/home/vegas/vegasImage/upload/uploadImage1588146446655',
+     extension: '',
+     size: 424018,
+     truncated: false,
+     buffer: null } }
+[2020-04-29 16:47:26.731] [INFO] vegasImage - file move = /home/vegas/vegasImage/public/image/480/202004/medical/source/paper_35240_20200429164727.png
+[2020-04-29 16:47:26.732] [INFO] vegasImage - file move = /home/vegas/vegasImage/public/image/480/202004/medical/75x100/paper_35240_20200429164727.png
+[2020-04-29 16:49:05.864] [INFO] app - uploadThumb is starting ...
+[2020-04-29 16:49:05.865] [INFO] app - uploadImage is starting ...
+[2020-04-29 16:49:05.866] [INFO] app - uploadThumb uploaded to  /home/vegas/vegasImage/upload/uploadThumb1588146545864
+[2020-04-29 16:49:06.572] [INFO] app - uploadImage uploaded to  /home/vegas/vegasImage/upload/uploadImage1588146545865
+[2020-04-29 16:49:06.572] [INFO] vegasImage - saveMedicalImage : uploadInfo = {"IMAGEPATH":"0429/paper_35240_20200429164906.png","ORGID":480}
+[2020-04-29 16:49:06.573] [INFO] vegasImage - saveMedicalImage : req.files={ uploadThumb: 
+   { fieldname: 'uploadThumb',
+     originalname: 'uploadThumb',
+     name: 'uploadThumb1588146545864',
+     encoding: '7bit',
+     mimetype: 'multipart/form-data',
+     path: '/home/vegas/vegasImage/upload/uploadThumb1588146545864',
+     extension: '',
+     size: 4621,
+     truncated: false,
+     buffer: null },
+  uploadImage: 
+   { fieldname: 'uploadImage',
+     originalname: 'uploadImage',
+     name: 'uploadImage1588146545865',
+     encoding: '7bit',
+     mimetype: 'multipart/form-data',
+     path: '/home/vegas/vegasImage/upload/uploadImage1588146545865',
+     extension: '',
+     size: 1832672,
+     truncated: false,
+     buffer: null } }
+[2020-04-29 16:49:06.574] [INFO] vegasImage - file move = /home/vegas/vegasImage/public/image/480/202004/medical/source/paper_35240_20200429164906.png
+[2020-04-29 16:49:06.574] [INFO] vegasImage - file move = /home/vegas/vegasImage/public/image/480/202004/medical/75x100/paper_35240_20200429164906.png
+[2020-04-29 17:21:09.781] [INFO] app - uploadThumb is starting ...
+[2020-04-29 17:21:09.782] [INFO] app - uploadImage is starting ...
+[2020-04-29 17:21:09.783] [INFO] app - uploadThumb uploaded to  /home/vegas/vegasImage/upload/uploadThumb1588148469781
+[2020-04-29 17:21:10.100] [INFO] app - uploadImage uploaded to  /home/vegas/vegasImage/upload/uploadImage1588148469782
+[2020-04-29 17:21:10.101] [INFO] vegasImage - saveMedicalImage : uploadInfo = {"IMAGEPATH":"0429/paper_38852_20200429172110.png","ORGID":480}
+[2020-04-29 17:21:10.102] [INFO] vegasImage - saveMedicalImage : req.files={ uploadThumb: 
+   { fieldname: 'uploadThumb',
+     originalname: 'uploadThumb',
+     name: 'uploadThumb1588148469781',
+     encoding: '7bit',
+     mimetype: 'multipart/form-data',
+     path: '/home/vegas/vegasImage/upload/uploadThumb1588148469781',
+     extension: '',
+     size: 2383,
+     truncated: false,
+     buffer: null },
+  uploadImage: 
+   { fieldname: 'uploadImage',
+     originalname: 'uploadImage',
+     name: 'uploadImage1588148469782',
+     encoding: '7bit',
+     mimetype: 'multipart/form-data',
+     path: '/home/vegas/vegasImage/upload/uploadImage1588148469782',
+     extension: '',
+     size: 403990,
+     truncated: false,
+     buffer: null } }
+[2020-04-29 17:21:10.102] [INFO] vegasImage - file move = /home/vegas/vegasImage/public/image/480/202004/medical/source/paper_38852_20200429172110.png
+[2020-04-29 17:21:10.102] [INFO] vegasImage - file move = /home/vegas/vegasImage/public/image/480/202004/medical/75x100/paper_38852_20200429172110.png
+[2020-04-29 17:23:35.138] [INFO] app - uploadThumb is starting ...
+[2020-04-29 17:23:35.139] [INFO] app - uploadImage is starting ...
+[2020-04-29 17:23:35.140] [INFO] app - uploadThumb uploaded to  /home/vegas/vegasImage/upload/uploadThumb1588148615138
+[2020-04-29 17:23:35.625] [INFO] app - uploadImage uploaded to  /home/vegas/vegasImage/upload/uploadImage1588148615139
+[2020-04-29 17:23:35.625] [INFO] vegasImage - saveMedicalImage : uploadInfo = {"IMAGEPATH":"0429/paper_38852_20200429172336.png","ORGID":480}
+[2020-04-29 17:23:35.626] [INFO] vegasImage - saveMedicalImage : req.files={ uploadThumb: 
+   { fieldname: 'uploadThumb',
+     originalname: 'uploadThumb',
+     name: 'uploadThumb1588148615138',
+     encoding: '7bit',
+     mimetype: 'multipart/form-data',
+     path: '/home/vegas/vegasImage/upload/uploadThumb1588148615138',
+     extension: '',
+     size: 4619,
+     truncated: false,
+     buffer: null },
+  uploadImage: 
+   { fieldname: 'uploadImage',
+     originalname: 'uploadImage',
+     name: 'uploadImage1588148615139',
+     encoding: '7bit',
+     mimetype: 'multipart/form-data',
+     path: '/home/vegas/vegasImage/upload/uploadImage1588148615139',
+     extension: '',
+     size: 1820400,
+     truncated: false,
+     buffer: null } }
+[2020-04-29 17:23:35.627] [INFO] vegasImage - file move = /home/vegas/vegasImage/public/image/480/202004/medical/source/paper_38852_20200429172336.png
+[2020-04-29 17:23:35.627] [INFO] vegasImage - file move = /home/vegas/vegasImage/public/image/480/202004/medical/75x100/paper_38852_20200429172336.png
+[2020-04-29 17:33:31.457] [INFO] app - uploadThumb is starting ...
+[2020-04-29 17:33:31.458] [INFO] app - uploadImage is starting ...
+[2020-04-29 17:33:31.459] [INFO] app - uploadThumb uploaded to  /home/vegas/vegasImage/upload/uploadThumb1588149211457
+[2020-04-29 17:33:31.659] [INFO] app - uploadImage uploaded to  /home/vegas/vegasImage/upload/uploadImage1588149211458
+[2020-04-29 17:33:31.660] [INFO] vegasImage - saveMedicalImage : uploadInfo = {"IMAGEPATH":"0429/paper_25341_20200429173332.png","ORGID":480}
+[2020-04-29 17:33:31.660] [INFO] vegasImage - saveMedicalImage : req.files={ uploadThumb: 
+   { fieldname: 'uploadThumb',
+     originalname: 'uploadThumb',
+     name: 'uploadThumb1588149211457',
+     encoding: '7bit',
+     mimetype: 'multipart/form-data',
+     path: '/home/vegas/vegasImage/upload/uploadThumb1588149211457',
+     extension: '',
+     size: 5423,
+     truncated: false,
+     buffer: null },
+  uploadImage: 
+   { fieldname: 'uploadImage',
+     originalname: 'uploadImage',
+     name: 'uploadImage1588149211458',
+     encoding: '7bit',
+     mimetype: 'multipart/form-data',
+     path: '/home/vegas/vegasImage/upload/uploadImage1588149211458',
+     extension: '',
+     size: 1103246,
+     truncated: false,
+     buffer: null } }
+[2020-04-29 17:33:31.661] [INFO] vegasImage - file move = /home/vegas/vegasImage/public/image/480/202004/medical/source/paper_25341_20200429173332.png
+[2020-04-29 17:33:31.661] [INFO] vegasImage - file move = /home/vegas/vegasImage/public/image/480/202004/medical/75x100/paper_25341_20200429173332.png
+[2020-04-29 17:35:11.369] [INFO] app - uploadThumb is starting ...
+[2020-04-29 17:35:11.370] [INFO] app - uploadImage is starting ...
+[2020-04-29 17:35:11.371] [INFO] app - uploadThumb uploaded to  /home/vegas/vegasImage/upload/uploadThumb1588149311369
+[2020-04-29 17:35:11.668] [INFO] app - uploadImage uploaded to  /home/vegas/vegasImage/upload/uploadImage1588149311370
+[2020-04-29 17:35:11.668] [INFO] vegasImage - saveMedicalImage : uploadInfo = {"IMAGEPATH":"202004/paper_25341_20200429173332.png","ORGID":480}
+[2020-04-29 17:35:11.669] [INFO] vegasImage - saveMedicalImage : req.files={ uploadThumb: 
+   { fieldname: 'uploadThumb',
+     originalname: 'uploadThumb',
+     name: 'uploadThumb1588149311369',
+     encoding: '7bit',
+     mimetype: 'multipart/form-data',
+     path: '/home/vegas/vegasImage/upload/uploadThumb1588149311369',
+     extension: '',
+     size: 5534,
+     truncated: false,
+     buffer: null },
+  uploadImage: 
+   { fieldname: 'uploadImage',
+     originalname: 'uploadImage',
+     name: 'uploadImage1588149311370',
+     encoding: '7bit',
+     mimetype: 'multipart/form-data',
+     path: '/home/vegas/vegasImage/upload/uploadImage1588149311370',
+     extension: '',
+     size: 1120906,
+     truncated: false,
+     buffer: null } }
+[2020-04-29 17:35:11.670] [INFO] vegasImage - file move = /home/vegas/vegasImage/public/image/480/202004/medical/source/paper_25341_20200429173332.png
+[2020-04-29 17:35:11.670] [INFO] vegasImage - file move = /home/vegas/vegasImage/public/image/480/202004/medical/75x100/paper_25341_20200429173332.png
+[2020-04-29 17:36:24.203] [INFO] app - uploadThumb is starting ...
+[2020-04-29 17:36:24.204] [INFO] app - uploadImage is starting ...
+[2020-04-29 17:36:24.205] [INFO] app - uploadThumb uploaded to  /home/vegas/vegasImage/upload/uploadThumb1588149384203
+[2020-04-29 17:36:24.519] [INFO] app - uploadImage uploaded to  /home/vegas/vegasImage/upload/uploadImage1588149384204
+[2020-04-29 17:36:24.520] [INFO] vegasImage - saveMedicalImage : uploadInfo = {"IMAGEPATH":"0429/paper_25341_20200429173625.png","ORGID":480}
+[2020-04-29 17:36:24.520] [INFO] vegasImage - saveMedicalImage : req.files={ uploadThumb: 
+   { fieldname: 'uploadThumb',
+     originalname: 'uploadThumb',
+     name: 'uploadThumb1588149384203',
+     encoding: '7bit',
+     mimetype: 'multipart/form-data',
+     path: '/home/vegas/vegasImage/upload/uploadThumb1588149384203',
+     extension: '',
+     size: 3451,
+     truncated: false,
+     buffer: null },
+  uploadImage: 
+   { fieldname: 'uploadImage',
+     originalname: 'uploadImage',
+     name: 'uploadImage1588149384204',
+     encoding: '7bit',
+     mimetype: 'multipart/form-data',
+     path: '/home/vegas/vegasImage/upload/uploadImage1588149384204',
+     extension: '',
+     size: 551851,
+     truncated: false,
+     buffer: null } }
+[2020-04-29 17:36:24.521] [INFO] vegasImage - file move = /home/vegas/vegasImage/public/image/480/202004/medical/source/paper_25341_20200429173625.png
+[2020-04-29 17:36:24.521] [INFO] vegasImage - file move = /home/vegas/vegasImage/public/image/480/202004/medical/75x100/paper_25341_20200429173625.png
+[2020-04-29 17:45:55.868] [INFO] app - uploadThumb is starting ...
+[2020-04-29 17:45:55.872] [INFO] app - uploadImage is starting ...
+[2020-04-29 17:45:55.874] [INFO] app - uploadThumb uploaded to  /home/vegas/vegasImage/upload/uploadThumb1588149955868
+[2020-04-29 17:45:56.735] [INFO] app - uploadImage uploaded to  /home/vegas/vegasImage/upload/uploadImage1588149955872
+[2020-04-29 17:45:56.735] [INFO] vegasImage - saveMedicalImage : uploadInfo = {"IMAGEPATH":"0429/picture_26688_20200429174555.png","ORGID":480}
+[2020-04-29 17:45:56.736] [INFO] vegasImage - saveMedicalImage : req.files={ uploadThumb: 
+   { fieldname: 'uploadThumb',
+     originalname: 'uploadThumb',
+     name: 'uploadThumb1588149955868',
+     encoding: '7bit',
+     mimetype: 'multipart/form-data',
+     path: '/home/vegas/vegasImage/upload/uploadThumb1588149955868',
+     extension: '',
+     size: 16767,
+     truncated: false,
+     buffer: null },
+  uploadImage: 
+   { fieldname: 'uploadImage',
+     originalname: 'uploadImage',
+     name: 'uploadImage1588149955872',
+     encoding: '7bit',
+     mimetype: 'multipart/form-data',
+     path: '/home/vegas/vegasImage/upload/uploadImage1588149955872',
+     extension: '',
+     size: 3263721,
+     truncated: false,
+     buffer: null } }
+[2020-04-29 17:45:56.736] [INFO] vegasImage - file move = /home/vegas/vegasImage/public/image/480/202004/medical/source/picture_26688_20200429174555.png
+[2020-04-29 17:45:56.736] [INFO] vegasImage - file move = /home/vegas/vegasImage/public/image/480/202004/medical/75x100/picture_26688_20200429174555.png
+[2020-04-29 17:52:27.061] [INFO] app - uploadThumb is starting ...
+[2020-04-29 17:52:27.062] [INFO] app - uploadImage is starting ...
+[2020-04-29 17:52:27.063] [INFO] app - uploadThumb uploaded to  /home/vegas/vegasImage/upload/uploadThumb1588150347061
+[2020-04-29 17:52:27.097] [INFO] app - uploadImage uploaded to  /home/vegas/vegasImage/upload/uploadImage1588150347062
+[2020-04-29 17:52:27.097] [INFO] vegasImage - saveMedicalImage : uploadInfo = {"IMAGEPATH":"0429/paper_38962_20200429175227.png","ORGID":480}
+[2020-04-29 17:52:27.098] [INFO] vegasImage - saveMedicalImage : req.files={ uploadThumb: 
+   { fieldname: 'uploadThumb',
+     originalname: 'uploadThumb',
+     name: 'uploadThumb1588150347061',
+     encoding: '7bit',
+     mimetype: 'multipart/form-data',
+     path: '/home/vegas/vegasImage/upload/uploadThumb1588150347061',
+     extension: '',
+     size: 985,
+     truncated: false,
+     buffer: null },
+  uploadImage: 
+   { fieldname: 'uploadImage',
+     originalname: 'uploadImage',
+     name: 'uploadImage1588150347062',
+     encoding: '7bit',
+     mimetype: 'multipart/form-data',
+     path: '/home/vegas/vegasImage/upload/uploadImage1588150347062',
+     extension: '',
+     size: 168565,
+     truncated: false,
+     buffer: null } }
+[2020-04-29 17:52:27.099] [INFO] vegasImage - file move = /home/vegas/vegasImage/public/image/480/202004/medical/source/paper_38962_20200429175227.png
+[2020-04-29 17:52:27.099] [INFO] vegasImage - file move = /home/vegas/vegasImage/public/image/480/202004/medical/75x100/paper_38962_20200429175227.png
+[2020-04-29 18:33:16.192] [INFO] app - uploadThumb is starting ...
+[2020-04-29 18:33:16.193] [INFO] app - uploadImage is starting ...
+[2020-04-29 18:33:16.193] [INFO] app - uploadThumb uploaded to  /home/vegas/vegasImage/upload/uploadThumb1588152796192
+[2020-04-29 18:33:16.278] [INFO] app - uploadImage uploaded to  /home/vegas/vegasImage/upload/uploadImage1588152796193
+[2020-04-29 18:33:16.278] [INFO] vegasImage - saveMedicalImage : uploadInfo = {"IMAGEPATH":"0429/paper_34866_20200429183317.png","ORGID":480}
+[2020-04-29 18:33:16.279] [INFO] vegasImage - saveMedicalImage : req.files={ uploadThumb: 
+   { fieldname: 'uploadThumb',
+     originalname: 'uploadThumb',
+     name: 'uploadThumb1588152796192',
+     encoding: '7bit',
+     mimetype: 'multipart/form-data',
+     path: '/home/vegas/vegasImage/upload/uploadThumb1588152796192',
+     extension: '',
+     size: 2593,
+     truncated: false,
+     buffer: null },
+  uploadImage: 
+   { fieldname: 'uploadImage',
+     originalname: 'uploadImage',
+     name: 'uploadImage1588152796193',
+     encoding: '7bit',
+     mimetype: 'multipart/form-data',
+     path: '/home/vegas/vegasImage/upload/uploadImage1588152796193',
+     extension: '',
+     size: 438815,
+     truncated: false,
+     buffer: null } }
+[2020-04-29 18:33:16.280] [INFO] vegasImage - file move = /home/vegas/vegasImage/public/image/480/202004/medical/source/paper_34866_20200429183317.png
+[2020-04-29 18:33:16.280] [INFO] vegasImage - file move = /home/vegas/vegasImage/public/image/480/202004/medical/75x100/paper_34866_20200429183317.png
+[2020-04-29 18:35:03.622] [INFO] app - uploadThumb is starting ...
+[2020-04-29 18:35:03.624] [INFO] app - uploadImage is starting ...
+[2020-04-29 18:35:03.624] [INFO] app - uploadThumb uploaded to  /home/vegas/vegasImage/upload/uploadThumb1588152903622
+[2020-04-29 18:35:03.949] [INFO] app - uploadImage uploaded to  /home/vegas/vegasImage/upload/uploadImage1588152903624
+[2020-04-29 18:35:03.950] [INFO] vegasImage - saveMedicalImage : uploadInfo = {"IMAGEPATH":"0429/paper_34866_20200429183505.png","ORGID":480}
+[2020-04-29 18:35:03.951] [INFO] vegasImage - saveMedicalImage : req.files={ uploadThumb: 
+   { fieldname: 'uploadThumb',
+     originalname: 'uploadThumb',
+     name: 'uploadThumb1588152903622',
+     encoding: '7bit',
+     mimetype: 'multipart/form-data',
+     path: '/home/vegas/vegasImage/upload/uploadThumb1588152903622',
+     extension: '',
+     size: 4623,
+     truncated: false,
+     buffer: null },
+  uploadImage: 
+   { fieldname: 'uploadImage',
+     originalname: 'uploadImage',
+     name: 'uploadImage1588152903624',
+     encoding: '7bit',
+     mimetype: 'multipart/form-data',
+     path: '/home/vegas/vegasImage/upload/uploadImage1588152903624',
+     extension: '',
+     size: 1826847,
+     truncated: false,
+     buffer: null } }
+[2020-04-29 18:35:03.951] [INFO] vegasImage - file move = /home/vegas/vegasImage/public/image/480/202004/medical/source/paper_34866_20200429183505.png
+[2020-04-29 18:35:03.952] [INFO] vegasImage - file move = /home/vegas/vegasImage/public/image/480/202004/medical/75x100/paper_34866_20200429183505.png
+[2020-04-29 18:50:06.494] [INFO] app - uploadThumb is starting ...
+[2020-04-29 18:50:06.494] [INFO] app - uploadImage is starting ...
+[2020-04-29 18:50:06.495] [INFO] app - uploadThumb uploaded to  /home/vegas/vegasImage/upload/uploadThumb1588153806494
+[2020-04-29 18:50:06.827] [INFO] app - uploadImage uploaded to  /home/vegas/vegasImage/upload/uploadImage1588153806494
+[2020-04-29 18:50:06.827] [INFO] vegasImage - saveMedicalImage : uploadInfo = {"IMAGEPATH":"0429/paper_37959_20200429185006.png","ORGID":480}
+[2020-04-29 18:50:06.828] [INFO] vegasImage - saveMedicalImage : req.files={ uploadThumb: 
+   { fieldname: 'uploadThumb',
+     originalname: 'uploadThumb',
+     name: 'uploadThumb1588153806494',
+     encoding: '7bit',
+     mimetype: 'multipart/form-data',
+     path: '/home/vegas/vegasImage/upload/uploadThumb1588153806494',
+     extension: '',
+     size: 5351,
+     truncated: false,
+     buffer: null },
+  uploadImage: 
+   { fieldname: 'uploadImage',
+     originalname: 'uploadImage',
+     name: 'uploadImage1588153806494',
+     encoding: '7bit',
+     mimetype: 'multipart/form-data',
+     path: '/home/vegas/vegasImage/upload/uploadImage1588153806494',
+     extension: '',
+     size: 1096946,
+     truncated: false,
+     buffer: null } }
+[2020-04-29 18:50:06.829] [INFO] vegasImage - file move = /home/vegas/vegasImage/public/image/480/202004/medical/source/paper_37959_20200429185006.png
+[2020-04-29 18:50:06.829] [INFO] vegasImage - file move = /home/vegas/vegasImage/public/image/480/202004/medical/75x100/paper_37959_20200429185006.png
+[2020-04-29 18:51:43.984] [INFO] app - uploadThumb is starting ...
+[2020-04-29 18:51:43.985] [INFO] app - uploadImage is starting ...
+[2020-04-29 18:51:43.986] [INFO] app - uploadThumb uploaded to  /home/vegas/vegasImage/upload/uploadThumb1588153903984
+[2020-04-29 18:51:44.135] [INFO] app - uploadImage uploaded to  /home/vegas/vegasImage/upload/uploadImage1588153903985
+[2020-04-29 18:51:44.136] [INFO] vegasImage - saveMedicalImage : uploadInfo = {"IMAGEPATH":"0429/paper_37959_20200429185143.png","ORGID":480}
+[2020-04-29 18:51:44.137] [INFO] vegasImage - saveMedicalImage : req.files={ uploadThumb: 
+   { fieldname: 'uploadThumb',
+     originalname: 'uploadThumb',
+     name: 'uploadThumb1588153903984',
+     encoding: '7bit',
+     mimetype: 'multipart/form-data',
+     path: '/home/vegas/vegasImage/upload/uploadThumb1588153903984',
+     extension: '',
+     size: 3271,
+     truncated: false,
+     buffer: null },
+  uploadImage: 
+   { fieldname: 'uploadImage',
+     originalname: 'uploadImage',
+     name: 'uploadImage1588153903985',
+     encoding: '7bit',
+     mimetype: 'multipart/form-data',
+     path: '/home/vegas/vegasImage/upload/uploadImage1588153903985',
+     extension: '',
+     size: 499841,
+     truncated: false,
+     buffer: null } }
+[2020-04-29 18:51:44.137] [INFO] vegasImage - file move = /home/vegas/vegasImage/public/image/480/202004/medical/source/paper_37959_20200429185143.png
+[2020-04-29 18:51:44.138] [INFO] vegasImage - file move = /home/vegas/vegasImage/public/image/480/202004/medical/75x100/paper_37959_20200429185143.png
+[2020-04-29 19:06:48.633] [INFO] app - uploadThumb is starting ...
+[2020-04-29 19:06:48.633] [INFO] app - uploadImage is starting ...
+[2020-04-29 19:06:48.634] [INFO] app - uploadThumb uploaded to  /home/vegas/vegasImage/upload/uploadThumb1588154808633
+[2020-04-29 19:06:48.952] [INFO] app - uploadImage uploaded to  /home/vegas/vegasImage/upload/uploadImage1588154808633
+[2020-04-29 19:06:48.952] [INFO] vegasImage - saveMedicalImage : uploadInfo = {"IMAGEPATH":"0429/paper_38844_20200429190649.png","ORGID":480}
+[2020-04-29 19:06:48.953] [INFO] vegasImage - saveMedicalImage : req.files={ uploadThumb: 
+   { fieldname: 'uploadThumb',
+     originalname: 'uploadThumb',
+     name: 'uploadThumb1588154808633',
+     encoding: '7bit',
+     mimetype: 'multipart/form-data',
+     path: '/home/vegas/vegasImage/upload/uploadThumb1588154808633',
+     extension: '',
+     size: 2275,
+     truncated: false,
+     buffer: null },
+  uploadImage: 
+   { fieldname: 'uploadImage',
+     originalname: 'uploadImage',
+     name: 'uploadImage1588154808633',
+     encoding: '7bit',
+     mimetype: 'multipart/form-data',
+     path: '/home/vegas/vegasImage/upload/uploadImage1588154808633',
+     extension: '',
+     size: 343874,
+     truncated: false,
+     buffer: null } }
+[2020-04-29 19:06:48.954] [INFO] vegasImage - file move = /home/vegas/vegasImage/public/image/480/202004/medical/source/paper_38844_20200429190649.png
+[2020-04-29 19:06:48.954] [INFO] vegasImage - file move = /home/vegas/vegasImage/public/image/480/202004/medical/75x100/paper_38844_20200429190649.png
+[2020-04-29 19:08:16.021] [INFO] app - uploadThumb is starting ...
+[2020-04-29 19:08:16.030] [INFO] app - uploadImage is starting ...
+[2020-04-29 19:08:16.031] [INFO] app - uploadThumb uploaded to  /home/vegas/vegasImage/upload/uploadThumb1588154896021
+[2020-04-29 19:08:16.297] [INFO] app - uploadImage uploaded to  /home/vegas/vegasImage/upload/uploadImage1588154896030
+[2020-04-29 19:08:16.297] [INFO] vegasImage - saveMedicalImage : uploadInfo = {"IMAGEPATH":"0429/paper_38844_20200429190816.png","ORGID":480}
+[2020-04-29 19:08:16.298] [INFO] vegasImage - saveMedicalImage : req.files={ uploadThumb: 
+   { fieldname: 'uploadThumb',
+     originalname: 'uploadThumb',
+     name: 'uploadThumb1588154896021',
+     encoding: '7bit',
+     mimetype: 'multipart/form-data',
+     path: '/home/vegas/vegasImage/upload/uploadThumb1588154896021',
+     extension: '',
+     size: 4614,
+     truncated: false,
+     buffer: null },
+  uploadImage: 
+   { fieldname: 'uploadImage',
+     originalname: 'uploadImage',
+     name: 'uploadImage1588154896030',
+     encoding: '7bit',
+     mimetype: 'multipart/form-data',
+     path: '/home/vegas/vegasImage/upload/uploadImage1588154896030',
+     extension: '',
+     size: 1842445,
+     truncated: false,
+     buffer: null } }
+[2020-04-29 19:08:16.299] [INFO] vegasImage - file move = /home/vegas/vegasImage/public/image/480/202004/medical/source/paper_38844_20200429190816.png
+[2020-04-29 19:08:16.299] [INFO] vegasImage - file move = /home/vegas/vegasImage/public/image/480/202004/medical/75x100/paper_38844_20200429190816.png
+[2020-04-29 19:08:32.298] [INFO] app - uploadThumb is starting ...
+[2020-04-29 19:08:32.299] [INFO] app - uploadImage is starting ...
+[2020-04-29 19:08:32.299] [INFO] app - uploadThumb uploaded to  /home/vegas/vegasImage/upload/uploadThumb1588154912298
+[2020-04-29 19:08:32.563] [INFO] app - uploadImage uploaded to  /home/vegas/vegasImage/upload/uploadImage1588154912299
+[2020-04-29 19:08:32.563] [INFO] vegasImage - saveMedicalImage : uploadInfo = {"IMAGEPATH":"202004/paper_38844_20200429190816.png","ORGID":480}
+[2020-04-29 19:08:32.563] [INFO] vegasImage - saveMedicalImage : req.files={ uploadThumb: 
+   { fieldname: 'uploadThumb',
+     originalname: 'uploadThumb',
+     name: 'uploadThumb1588154912298',
+     encoding: '7bit',
+     mimetype: 'multipart/form-data',
+     path: '/home/vegas/vegasImage/upload/uploadThumb1588154912298',
+     extension: '',
+     size: 4614,
+     truncated: false,
+     buffer: null },
+  uploadImage: 
+   { fieldname: 'uploadImage',
+     originalname: 'uploadImage',
+     name: 'uploadImage1588154912299',
+     encoding: '7bit',
+     mimetype: 'multipart/form-data',
+     path: '/home/vegas/vegasImage/upload/uploadImage1588154912299',
+     extension: '',
+     size: 1842445,
+     truncated: false,
+     buffer: null } }
+[2020-04-29 19:08:32.564] [INFO] vegasImage - file move = /home/vegas/vegasImage/public/image/480/202004/medical/source/paper_38844_20200429190816.png
+[2020-04-29 19:08:32.564] [INFO] vegasImage - file move = /home/vegas/vegasImage/public/image/480/202004/medical/75x100/paper_38844_20200429190816.png
+[2020-04-29 19:10:20.581] [INFO] app - uploadThumb is starting ...
+[2020-04-29 19:10:20.582] [INFO] app - uploadImage is starting ...
+[2020-04-29 19:10:20.582] [INFO] app - uploadThumb uploaded to  /home/vegas/vegasImage/upload/uploadThumb1588155020581
+[2020-04-29 19:10:21.010] [INFO] app - uploadImage uploaded to  /home/vegas/vegasImage/upload/uploadImage1588155020582
+[2020-04-29 19:10:21.010] [INFO] vegasImage - saveMedicalImage : uploadInfo = {"IMAGEPATH":"0429/paper_34866_20200429191024.png","ORGID":480}
+[2020-04-29 19:10:21.011] [INFO] vegasImage - saveMedicalImage : req.files={ uploadThumb: 
+   { fieldname: 'uploadThumb',
+     originalname: 'uploadThumb',
+     name: 'uploadThumb1588155020581',
+     encoding: '7bit',
+     mimetype: 'multipart/form-data',
+     path: '/home/vegas/vegasImage/upload/uploadThumb1588155020581',
+     extension: '',
+     size: 3226,
+     truncated: false,
+     buffer: null },
+  uploadImage: 
+   { fieldname: 'uploadImage',
+     originalname: 'uploadImage',
+     name: 'uploadImage1588155020582',
+     encoding: '7bit',
+     mimetype: 'multipart/form-data',
+     path: '/home/vegas/vegasImage/upload/uploadImage1588155020582',
+     extension: '',
+     size: 504389,
+     truncated: false,
+     buffer: null } }
+[2020-04-29 19:10:21.011] [INFO] vegasImage - file move = /home/vegas/vegasImage/public/image/480/202004/medical/source/paper_34866_20200429191024.png
+[2020-04-29 19:10:21.011] [INFO] vegasImage - file move = /home/vegas/vegasImage/public/image/480/202004/medical/75x100/paper_34866_20200429191024.png
+[2020-04-29 19:11:24.102] [INFO] app - uploadThumb is starting ...
+[2020-04-29 19:11:24.104] [INFO] app - uploadImage is starting ...
+[2020-04-29 19:11:24.104] [INFO] app - uploadThumb uploaded to  /home/vegas/vegasImage/upload/uploadThumb1588155084102
+[2020-04-29 19:11:24.168] [INFO] app - uploadImage uploaded to  /home/vegas/vegasImage/upload/uploadImage1588155084104
+[2020-04-29 19:11:24.168] [INFO] vegasImage - saveMedicalImage : uploadInfo = {"IMAGEPATH":"0429/paper_35240_20200429191127.png","ORGID":480}
+[2020-04-29 19:11:24.168] [INFO] vegasImage - saveMedicalImage : req.files={ uploadThumb: 
+   { fieldname: 'uploadThumb',
+     originalname: 'uploadThumb',
+     name: 'uploadThumb1588155084102',
+     encoding: '7bit',
+     mimetype: 'multipart/form-data',
+     path: '/home/vegas/vegasImage/upload/uploadThumb1588155084102',
+     extension: '',
+     size: 3329,
+     truncated: false,
+     buffer: null },
+  uploadImage: 
+   { fieldname: 'uploadImage',
+     originalname: 'uploadImage',
+     name: 'uploadImage1588155084104',
+     encoding: '7bit',
+     mimetype: 'multipart/form-data',
+     path: '/home/vegas/vegasImage/upload/uploadImage1588155084104',
+     extension: '',
+     size: 513774,
+     truncated: false,
+     buffer: null } }
+[2020-04-29 19:11:24.169] [INFO] vegasImage - file move = /home/vegas/vegasImage/public/image/480/202004/medical/source/paper_35240_20200429191127.png
+[2020-04-29 19:11:24.169] [INFO] vegasImage - file move = /home/vegas/vegasImage/public/image/480/202004/medical/75x100/paper_35240_20200429191127.png
+[2020-04-29 19:13:33.484] [INFO] app - uploadThumb is starting ...
+[2020-04-29 19:13:33.484] [INFO] app - uploadImage is starting ...
+[2020-04-29 19:13:33.485] [INFO] app - uploadThumb uploaded to  /home/vegas/vegasImage/upload/uploadThumb1588155213484
+[2020-04-29 19:13:33.513] [INFO] app - uploadImage uploaded to  /home/vegas/vegasImage/upload/uploadImage1588155213484
+[2020-04-29 19:13:33.513] [INFO] vegasImage - saveMedicalImage : uploadInfo = {"IMAGEPATH":"0429/paper_38788_20200429191334.png","ORGID":480}
+[2020-04-29 19:13:33.513] [INFO] vegasImage - saveMedicalImage : req.files={ uploadThumb: 
+   { fieldname: 'uploadThumb',
+     originalname: 'uploadThumb',
+     name: 'uploadThumb1588155213484',
+     encoding: '7bit',
+     mimetype: 'multipart/form-data',
+     path: '/home/vegas/vegasImage/upload/uploadThumb1588155213484',
+     extension: '',
+     size: 767,
+     truncated: false,
+     buffer: null },
+  uploadImage: 
+   { fieldname: 'uploadImage',
+     originalname: 'uploadImage',
+     name: 'uploadImage1588155213484',
+     encoding: '7bit',
+     mimetype: 'multipart/form-data',
+     path: '/home/vegas/vegasImage/upload/uploadImage1588155213484',
+     extension: '',
+     size: 137161,
+     truncated: false,
+     buffer: null } }
+[2020-04-29 19:13:33.513] [INFO] vegasImage - file move = /home/vegas/vegasImage/public/image/480/202004/medical/source/paper_38788_20200429191334.png
+[2020-04-29 19:13:33.513] [INFO] vegasImage - file move = /home/vegas/vegasImage/public/image/480/202004/medical/75x100/paper_38788_20200429191334.png
+[2020-04-29 19:15:09.613] [INFO] app - uploadThumb is starting ...
+[2020-04-29 19:15:09.614] [INFO] app - uploadImage is starting ...
+[2020-04-29 19:15:09.614] [INFO] app - uploadThumb uploaded to  /home/vegas/vegasImage/upload/uploadThumb1588155309613
+[2020-04-29 19:15:09.687] [INFO] app - uploadImage uploaded to  /home/vegas/vegasImage/upload/uploadImage1588155309614
+[2020-04-29 19:15:09.688] [INFO] vegasImage - saveMedicalImage : uploadInfo = {"IMAGEPATH":"0429/paper_38788_20200429191510.png","ORGID":480}
+[2020-04-29 19:15:09.689] [INFO] vegasImage - saveMedicalImage : req.files={ uploadThumb: 
+   { fieldname: 'uploadThumb',
+     originalname: 'uploadThumb',
+     name: 'uploadThumb1588155309613',
+     encoding: '7bit',
+     mimetype: 'multipart/form-data',
+     path: '/home/vegas/vegasImage/upload/uploadThumb1588155309613',
+     extension: '',
+     size: 2420,
+     truncated: false,
+     buffer: null },
+  uploadImage: 
+   { fieldname: 'uploadImage',
+     originalname: 'uploadImage',
+     name: 'uploadImage1588155309614',
+     encoding: '7bit',
+     mimetype: 'multipart/form-data',
+     path: '/home/vegas/vegasImage/upload/uploadImage1588155309614',
+     extension: '',
+     size: 406651,
+     truncated: false,
+     buffer: null } }
+[2020-04-29 19:15:09.690] [INFO] vegasImage - file move = /home/vegas/vegasImage/public/image/480/202004/medical/source/paper_38788_20200429191510.png
+[2020-04-29 19:15:09.690] [INFO] vegasImage - file move = /home/vegas/vegasImage/public/image/480/202004/medical/75x100/paper_38788_20200429191510.png
+[2020-04-29 19:16:38.346] [INFO] app - uploadThumb is starting ...
+[2020-04-29 19:16:38.347] [INFO] app - uploadImage is starting ...
+[2020-04-29 19:16:38.348] [INFO] app - uploadThumb uploaded to  /home/vegas/vegasImage/upload/uploadThumb1588155398346
+[2020-04-29 19:16:38.630] [INFO] app - uploadImage uploaded to  /home/vegas/vegasImage/upload/uploadImage1588155398347
+[2020-04-29 19:16:38.631] [INFO] vegasImage - saveMedicalImage : uploadInfo = {"IMAGEPATH":"0429/paper_38788_20200429191639.png","ORGID":480}
+[2020-04-29 19:16:38.632] [INFO] vegasImage - saveMedicalImage : req.files={ uploadThumb: 
+   { fieldname: 'uploadThumb',
+     originalname: 'uploadThumb',
+     name: 'uploadThumb1588155398346',
+     encoding: '7bit',
+     mimetype: 'multipart/form-data',
+     path: '/home/vegas/vegasImage/upload/uploadThumb1588155398346',
+     extension: '',
+     size: 4604,
+     truncated: false,
+     buffer: null },
+  uploadImage: 
+   { fieldname: 'uploadImage',
+     originalname: 'uploadImage',
+     name: 'uploadImage1588155398347',
+     encoding: '7bit',
+     mimetype: 'multipart/form-data',
+     path: '/home/vegas/vegasImage/upload/uploadImage1588155398347',
+     extension: '',
+     size: 1822994,
+     truncated: false,
+     buffer: null } }
+[2020-04-29 19:16:38.632] [INFO] vegasImage - file move = /home/vegas/vegasImage/public/image/480/202004/medical/source/paper_38788_20200429191639.png
+[2020-04-29 19:16:38.632] [INFO] vegasImage - file move = /home/vegas/vegasImage/public/image/480/202004/medical/75x100/paper_38788_20200429191639.png
+[2020-04-29 19:23:42.879] [INFO] app - uploadThumb is starting ...
+[2020-04-29 19:23:42.879] [INFO] app - uploadImage is starting ...
+[2020-04-29 19:23:42.880] [INFO] app - uploadThumb uploaded to  /home/vegas/vegasImage/upload/uploadThumb1588155822878
+[2020-04-29 19:23:43.047] [INFO] app - uploadImage uploaded to  /home/vegas/vegasImage/upload/uploadImage1588155822879
+[2020-04-29 19:23:43.047] [INFO] vegasImage - saveMedicalImage : uploadInfo = {"IMAGEPATH":"0429/paper_38897_20200429192342.png","ORGID":480}
+[2020-04-29 19:23:43.048] [INFO] vegasImage - saveMedicalImage : req.files={ uploadThumb: 
+   { fieldname: 'uploadThumb',
+     originalname: 'uploadThumb',
+     name: 'uploadThumb1588155822878',
+     encoding: '7bit',
+     mimetype: 'multipart/form-data',
+     path: '/home/vegas/vegasImage/upload/uploadThumb1588155822878',
+     extension: '',
+     size: 5429,
+     truncated: false,
+     buffer: null },
+  uploadImage: 
+   { fieldname: 'uploadImage',
+     originalname: 'uploadImage',
+     name: 'uploadImage1588155822879',
+     encoding: '7bit',
+     mimetype: 'multipart/form-data',
+     path: '/home/vegas/vegasImage/upload/uploadImage1588155822879',
+     extension: '',
+     size: 1093199,
+     truncated: false,
+     buffer: null } }
+[2020-04-29 19:23:43.049] [INFO] vegasImage - file move = /home/vegas/vegasImage/public/image/480/202004/medical/source/paper_38897_20200429192342.png
+[2020-04-29 19:23:43.049] [INFO] vegasImage - file move = /home/vegas/vegasImage/public/image/480/202004/medical/75x100/paper_38897_20200429192342.png
+[2020-04-29 19:24:46.948] [INFO] app - uploadThumb is starting ...
+[2020-04-29 19:24:46.948] [INFO] app - uploadImage is starting ...
+[2020-04-29 19:24:46.949] [INFO] app - uploadThumb uploaded to  /home/vegas/vegasImage/upload/uploadThumb1588155886948
+[2020-04-29 19:24:47.019] [INFO] app - uploadImage uploaded to  /home/vegas/vegasImage/upload/uploadImage1588155886948
+[2020-04-29 19:24:47.019] [INFO] vegasImage - saveMedicalImage : uploadInfo = {"IMAGEPATH":"0429/paper_38788_20200429192446.png","ORGID":480}
+[2020-04-29 19:24:47.019] [INFO] vegasImage - saveMedicalImage : req.files={ uploadThumb: 
+   { fieldname: 'uploadThumb',
+     originalname: 'uploadThumb',
+     name: 'uploadThumb1588155886948',
+     encoding: '7bit',
+     mimetype: 'multipart/form-data',
+     path: '/home/vegas/vegasImage/upload/uploadThumb1588155886948',
+     extension: '',
+     size: 3197,
+     truncated: false,
+     buffer: null },
+  uploadImage: 
+   { fieldname: 'uploadImage',
+     originalname: 'uploadImage',
+     name: 'uploadImage1588155886948',
+     encoding: '7bit',
+     mimetype: 'multipart/form-data',
+     path: '/home/vegas/vegasImage/upload/uploadImage1588155886948',
+     extension: '',
+     size: 499565,
+     truncated: false,
+     buffer: null } }
+[2020-04-29 19:24:47.019] [INFO] vegasImage - file move = /home/vegas/vegasImage/public/image/480/202004/medical/source/paper_38788_20200429192446.png
+[2020-04-29 19:24:47.020] [INFO] vegasImage - file move = /home/vegas/vegasImage/public/image/480/202004/medical/75x100/paper_38788_20200429192446.png
+[2020-04-29 19:25:42.210] [INFO] app - uploadThumb is starting ...
+[2020-04-29 19:25:42.211] [INFO] app - uploadImage is starting ...
+[2020-04-29 19:25:42.212] [INFO] app - uploadThumb uploaded to  /home/vegas/vegasImage/upload/uploadThumb1588155942210
+[2020-04-29 19:25:42.819] [INFO] app - uploadImage uploaded to  /home/vegas/vegasImage/upload/uploadImage1588155942211
+[2020-04-29 19:25:42.819] [INFO] vegasImage - saveMedicalImage : uploadInfo = {"IMAGEPATH":"0429/paper_38802_20200429192541.png","ORGID":480}
+[2020-04-29 19:25:42.819] [INFO] vegasImage - saveMedicalImage : req.files={ uploadThumb: 
+   { fieldname: 'uploadThumb',
+     originalname: 'uploadThumb',
+     name: 'uploadThumb1588155942210',
+     encoding: '7bit',
+     mimetype: 'multipart/form-data',
+     path: '/home/vegas/vegasImage/upload/uploadThumb1588155942210',
+     extension: '',
+     size: 5335,
+     truncated: false,
+     buffer: null },
+  uploadImage: 
+   { fieldname: 'uploadImage',
+     originalname: 'uploadImage',
+     name: 'uploadImage1588155942211',
+     encoding: '7bit',
+     mimetype: 'multipart/form-data',
+     path: '/home/vegas/vegasImage/upload/uploadImage1588155942211',
+     extension: '',
+     size: 1077855,
+     truncated: false,
+     buffer: null } }
+[2020-04-29 19:25:42.819] [INFO] vegasImage - file move = /home/vegas/vegasImage/public/image/480/202004/medical/source/paper_38802_20200429192541.png
+[2020-04-29 19:25:42.819] [INFO] vegasImage - file move = /home/vegas/vegasImage/public/image/480/202004/medical/75x100/paper_38802_20200429192541.png
+[2020-04-29 19:26:56.521] [INFO] app - uploadThumb is starting ...
+[2020-04-29 19:26:56.522] [INFO] app - uploadImage is starting ...
+[2020-04-29 19:26:56.523] [INFO] app - uploadThumb uploaded to  /home/vegas/vegasImage/upload/uploadThumb1588156016521
+[2020-04-29 19:26:56.827] [INFO] app - uploadImage uploaded to  /home/vegas/vegasImage/upload/uploadImage1588156016522
+[2020-04-29 19:26:56.828] [INFO] vegasImage - saveMedicalImage : uploadInfo = {"IMAGEPATH":"0429/paper_38802_20200429192655.png","ORGID":480}
+[2020-04-29 19:26:56.830] [INFO] vegasImage - saveMedicalImage : req.files={ uploadThumb: 
+   { fieldname: 'uploadThumb',
+     originalname: 'uploadThumb',
+     name: 'uploadThumb1588156016521',
+     encoding: '7bit',
+     mimetype: 'multipart/form-data',
+     path: '/home/vegas/vegasImage/upload/uploadThumb1588156016521',
+     extension: '',
+     size: 3249,
+     truncated: false,
+     buffer: null },
+  uploadImage: 
+   { fieldname: 'uploadImage',
+     originalname: 'uploadImage',
+     name: 'uploadImage1588156016522',
+     encoding: '7bit',
+     mimetype: 'multipart/form-data',
+     path: '/home/vegas/vegasImage/upload/uploadImage1588156016522',
+     extension: '',
+     size: 500539,
+     truncated: false,
+     buffer: null } }
+[2020-04-29 19:26:56.831] [INFO] vegasImage - file move = /home/vegas/vegasImage/public/image/480/202004/medical/source/paper_38802_20200429192655.png
+[2020-04-29 19:26:56.831] [INFO] vegasImage - file move = /home/vegas/vegasImage/public/image/480/202004/medical/75x100/paper_38802_20200429192655.png
+[2020-04-29 19:32:18.067] [INFO] app - uploadThumb is starting ...
+[2020-04-29 19:32:18.070] [INFO] app - uploadImage is starting ...
+[2020-04-29 19:32:18.071] [INFO] app - uploadThumb uploaded to  /home/vegas/vegasImage/upload/uploadThumb1588156338067
+[2020-04-29 19:32:18.134] [INFO] app - uploadImage uploaded to  /home/vegas/vegasImage/upload/uploadImage1588156338070
+[2020-04-29 19:32:18.134] [INFO] vegasImage - saveMedicalImage : uploadInfo = {"IMAGEPATH":"0429/paper_38720_20200429193219.png","ORGID":480}
+[2020-04-29 19:32:18.134] [INFO] vegasImage - saveMedicalImage : req.files={ uploadThumb: 
+   { fieldname: 'uploadThumb',
+     originalname: 'uploadThumb',
+     name: 'uploadThumb1588156338067',
+     encoding: '7bit',
+     mimetype: 'multipart/form-data',
+     path: '/home/vegas/vegasImage/upload/uploadThumb1588156338067',
+     extension: '',
+     size: 2447,
+     truncated: false,
+     buffer: null },
+  uploadImage: 
+   { fieldname: 'uploadImage',
+     originalname: 'uploadImage',
+     name: 'uploadImage1588156338070',
+     encoding: '7bit',
+     mimetype: 'multipart/form-data',
+     path: '/home/vegas/vegasImage/upload/uploadImage1588156338070',
+     extension: '',
+     size: 415484,
+     truncated: false,
+     buffer: null } }
+[2020-04-29 19:32:18.134] [INFO] vegasImage - file move = /home/vegas/vegasImage/public/image/480/202004/medical/source/paper_38720_20200429193219.png
+[2020-04-29 19:32:18.134] [INFO] vegasImage - file move = /home/vegas/vegasImage/public/image/480/202004/medical/75x100/paper_38720_20200429193219.png
+[2020-04-29 19:33:48.688] [INFO] app - uploadThumb is starting ...
+[2020-04-29 19:33:48.688] [INFO] app - uploadImage is starting ...
+[2020-04-29 19:33:48.688] [INFO] app - uploadThumb uploaded to  /home/vegas/vegasImage/upload/uploadThumb1588156428688
+[2020-04-29 19:33:48.826] [INFO] app - uploadImage uploaded to  /home/vegas/vegasImage/upload/uploadImage1588156428688
+[2020-04-29 19:33:48.827] [INFO] vegasImage - saveMedicalImage : uploadInfo = {"IMAGEPATH":"0429/paper_38720_20200429193349.png","ORGID":480}
+[2020-04-29 19:33:48.827] [INFO] vegasImage - saveMedicalImage : req.files={ uploadThumb: 
+   { fieldname: 'uploadThumb',
+     originalname: 'uploadThumb',
+     name: 'uploadThumb1588156428688',
+     encoding: '7bit',
+     mimetype: 'multipart/form-data',
+     path: '/home/vegas/vegasImage/upload/uploadThumb1588156428688',
+     extension: '',
+     size: 2394,
+     truncated: false,
+     buffer: null },
+  uploadImage: 
+   { fieldname: 'uploadImage',
+     originalname: 'uploadImage',
+     name: 'uploadImage1588156428688',
+     encoding: '7bit',
+     mimetype: 'multipart/form-data',
+     path: '/home/vegas/vegasImage/upload/uploadImage1588156428688',
+     extension: '',
+     size: 360019,
+     truncated: false,
+     buffer: null } }
+[2020-04-29 19:33:48.828] [INFO] vegasImage - file move = /home/vegas/vegasImage/public/image/480/202004/medical/source/paper_38720_20200429193349.png
+[2020-04-29 19:33:48.828] [INFO] vegasImage - file move = /home/vegas/vegasImage/public/image/480/202004/medical/75x100/paper_38720_20200429193349.png
+[2020-04-29 19:37:55.909] [INFO] app - uploadThumb is starting ...
+[2020-04-29 19:37:55.909] [INFO] app - uploadImage is starting ...
+[2020-04-29 19:37:55.909] [INFO] app - uploadThumb uploaded to  /home/vegas/vegasImage/upload/uploadThumb1588156675908
+[2020-04-29 19:37:56.155] [INFO] app - uploadImage uploaded to  /home/vegas/vegasImage/upload/uploadImage1588156675909
+[2020-04-29 19:37:56.156] [INFO] vegasImage - saveMedicalImage : uploadInfo = {"IMAGEPATH":"0429/paper_38720_20200429193757.png","ORGID":480}
+[2020-04-29 19:37:56.156] [INFO] vegasImage - saveMedicalImage : req.files={ uploadThumb: 
+   { fieldname: 'uploadThumb',
+     originalname: 'uploadThumb',
+     name: 'uploadThumb1588156675908',
+     encoding: '7bit',
+     mimetype: 'multipart/form-data',
+     path: '/home/vegas/vegasImage/upload/uploadThumb1588156675908',
+     extension: '',
+     size: 4642,
+     truncated: false,
+     buffer: null },
+  uploadImage: 
+   { fieldname: 'uploadImage',
+     originalname: 'uploadImage',
+     name: 'uploadImage1588156675909',
+     encoding: '7bit',
+     mimetype: 'multipart/form-data',
+     path: '/home/vegas/vegasImage/upload/uploadImage1588156675909',
+     extension: '',
+     size: 1836587,
+     truncated: false,
+     buffer: null } }
+[2020-04-29 19:37:56.156] [INFO] vegasImage - file move = /home/vegas/vegasImage/public/image/480/202004/medical/source/paper_38720_20200429193757.png
+[2020-04-29 19:37:56.156] [INFO] vegasImage - file move = /home/vegas/vegasImage/public/image/480/202004/medical/75x100/paper_38720_20200429193757.png
+[2020-04-29 19:38:54.665] [INFO] app - uploadThumb is starting ...
+[2020-04-29 19:38:54.666] [INFO] app - uploadImage is starting ...
+[2020-04-29 19:38:54.667] [INFO] app - uploadThumb uploaded to  /home/vegas/vegasImage/upload/uploadThumb1588156734664
+[2020-04-29 19:38:54.782] [INFO] app - uploadImage uploaded to  /home/vegas/vegasImage/upload/uploadImage1588156734666
+[2020-04-29 19:38:54.783] [INFO] vegasImage - saveMedicalImage : uploadInfo = {"IMAGEPATH":"0429/paper_38852_20200429193856.png","ORGID":480}
+[2020-04-29 19:38:54.783] [INFO] vegasImage - saveMedicalImage : req.files={ uploadThumb: 
+   { fieldname: 'uploadThumb',
+     originalname: 'uploadThumb',
+     name: 'uploadThumb1588156734664',
+     encoding: '7bit',
+     mimetype: 'multipart/form-data',
+     path: '/home/vegas/vegasImage/upload/uploadThumb1588156734664',
+     extension: '',
+     size: 3518,
+     truncated: false,
+     buffer: null },
+  uploadImage: 
+   { fieldname: 'uploadImage',
+     originalname: 'uploadImage',
+     name: 'uploadImage1588156734666',
+     encoding: '7bit',
+     mimetype: 'multipart/form-data',
+     path: '/home/vegas/vegasImage/upload/uploadImage1588156734666',
+     extension: '',
+     size: 554266,
+     truncated: false,
+     buffer: null } }
+[2020-04-29 19:38:54.784] [INFO] vegasImage - file move = /home/vegas/vegasImage/public/image/480/202004/medical/source/paper_38852_20200429193856.png
+[2020-04-29 19:38:54.784] [INFO] vegasImage - file move = /home/vegas/vegasImage/public/image/480/202004/medical/75x100/paper_38852_20200429193856.png
+[2020-04-29 19:39:54.785] [INFO] app - uploadThumb is starting ...
+[2020-04-29 19:39:54.785] [INFO] app - uploadImage is starting ...
+[2020-04-29 19:39:54.786] [INFO] app - uploadThumb uploaded to  /home/vegas/vegasImage/upload/uploadThumb1588156794784
+[2020-04-29 19:39:54.808] [INFO] app - uploadImage uploaded to  /home/vegas/vegasImage/upload/uploadImage1588156794785
+[2020-04-29 19:39:54.808] [INFO] vegasImage - saveMedicalImage : uploadInfo = {"IMAGEPATH":"0429/paper_38911_20200429193955.png","ORGID":480}
+[2020-04-29 19:39:54.809] [INFO] vegasImage - saveMedicalImage : req.files={ uploadThumb: 
+   { fieldname: 'uploadThumb',
+     originalname: 'uploadThumb',
+     name: 'uploadThumb1588156794784',
+     encoding: '7bit',
+     mimetype: 'multipart/form-data',
+     path: '/home/vegas/vegasImage/upload/uploadThumb1588156794784',
+     extension: '',
+     size: 767,
+     truncated: false,
+     buffer: null },
+  uploadImage: 
+   { fieldname: 'uploadImage',
+     originalname: 'uploadImage',
+     name: 'uploadImage1588156794785',
+     encoding: '7bit',
+     mimetype: 'multipart/form-data',
+     path: '/home/vegas/vegasImage/upload/uploadImage1588156794785',
+     extension: '',
+     size: 137161,
+     truncated: false,
+     buffer: null } }
+[2020-04-29 19:39:54.821] [INFO] vegasImage - file move = /home/vegas/vegasImage/public/image/480/202004/medical/source/paper_38911_20200429193955.png
+[2020-04-29 19:39:54.821] [INFO] vegasImage - file move = /home/vegas/vegasImage/public/image/480/202004/medical/75x100/paper_38911_20200429193955.png
+[2020-04-29 19:41:56.613] [INFO] app - uploadThumb is starting ...
+[2020-04-29 19:41:56.614] [INFO] app - uploadImage is starting ...
+[2020-04-29 19:41:56.615] [INFO] app - uploadThumb uploaded to  /home/vegas/vegasImage/upload/uploadThumb1588156916612
+[2020-04-29 19:41:56.941] [INFO] app - uploadImage uploaded to  /home/vegas/vegasImage/upload/uploadImage1588156916614
+[2020-04-29 19:41:56.941] [INFO] vegasImage - saveMedicalImage : uploadInfo = {"IMAGEPATH":"0429/paper_38911_20200429194157.png","ORGID":480}
+[2020-04-29 19:41:56.941] [INFO] vegasImage - saveMedicalImage : req.files={ uploadThumb: 
+   { fieldname: 'uploadThumb',
+     originalname: 'uploadThumb',
+     name: 'uploadThumb1588156916612',
+     encoding: '7bit',
+     mimetype: 'multipart/form-data',
+     path: '/home/vegas/vegasImage/upload/uploadThumb1588156916612',
+     extension: '',
+     size: 2335,
+     truncated: false,
+     buffer: null },
+  uploadImage: 
+   { fieldname: 'uploadImage',
+     originalname: 'uploadImage',
+     name: 'uploadImage1588156916614',
+     encoding: '7bit',
+     mimetype: 'multipart/form-data',
+     path: '/home/vegas/vegasImage/upload/uploadImage1588156916614',
+     extension: '',
+     size: 404189,
+     truncated: false,
+     buffer: null } }
+[2020-04-29 19:41:56.941] [INFO] vegasImage - file move = /home/vegas/vegasImage/public/image/480/202004/medical/source/paper_38911_20200429194157.png
+[2020-04-29 19:41:56.941] [INFO] vegasImage - file move = /home/vegas/vegasImage/public/image/480/202004/medical/75x100/paper_38911_20200429194157.png
+[2020-04-29 19:43:36.910] [INFO] app - uploadThumb is starting ...
+[2020-04-29 19:43:36.911] [INFO] app - uploadImage is starting ...
+[2020-04-29 19:43:36.912] [INFO] app - uploadThumb uploaded to  /home/vegas/vegasImage/upload/uploadThumb1588157016910
+[2020-04-29 19:43:37.298] [INFO] app - uploadImage uploaded to  /home/vegas/vegasImage/upload/uploadImage1588157016911
+[2020-04-29 19:43:37.298] [INFO] vegasImage - saveMedicalImage : uploadInfo = {"IMAGEPATH":"0429/paper_38911_20200429194337.png","ORGID":480}
+[2020-04-29 19:43:37.298] [INFO] vegasImage - saveMedicalImage : req.files={ uploadThumb: 
+   { fieldname: 'uploadThumb',
+     originalname: 'uploadThumb',
+     name: 'uploadThumb1588157016910',
+     encoding: '7bit',
+     mimetype: 'multipart/form-data',
+     path: '/home/vegas/vegasImage/upload/uploadThumb1588157016910',
+     extension: '',
+     size: 4596,
+     truncated: false,
+     buffer: null },
+  uploadImage: 
+   { fieldname: 'uploadImage',
+     originalname: 'uploadImage',
+     name: 'uploadImage1588157016911',
+     encoding: '7bit',
+     mimetype: 'multipart/form-data',
+     path: '/home/vegas/vegasImage/upload/uploadImage1588157016911',
+     extension: '',
+     size: 1819575,
+     truncated: false,
+     buffer: null } }
+[2020-04-29 19:43:37.298] [INFO] vegasImage - file move = /home/vegas/vegasImage/public/image/480/202004/medical/source/paper_38911_20200429194337.png
+[2020-04-29 19:43:37.298] [INFO] vegasImage - file move = /home/vegas/vegasImage/public/image/480/202004/medical/75x100/paper_38911_20200429194337.png
+[2020-04-29 20:07:09.401] [INFO] app - SVCPost_686136478662656_ot_751034664124381154 is starting ...
+[2020-04-29 20:07:09.630] [INFO] app - SVCPost_686136478662656_ot_751034664124381154_.undefined is starting ...
+[2020-04-29 20:07:09.630] [INFO] app - uploadImage uploaded to  /home/vegas/vegasImage/upload/SVCPost_686136478662656_ot_7510346641243811541588158429401
+[2020-04-29 20:07:09.630] [INFO] app - uploadThumb uploaded to  /home/vegas/vegasImage/upload/SVCPost_686136478662656_ot_751034664124381154_1588158429630.undefined
+[2020-04-29 20:07:09.630] [INFO] vegasImage - saveMedicalImage : uploadInfo = {"IMAGEPATH":"202004/picture_34866_20200429200709_5ablr6k9l8iuur.jpg","ORGID":480}
+[2020-04-29 20:07:09.630] [INFO] vegasImage - saveMedicalImage : req.files={ uploadImage: 
+   { fieldname: 'uploadImage',
+     originalname: 'SVCPost_686136478662656_ot_751034664124381154',
+     name: 'SVCPost_686136478662656_ot_7510346641243811541588158429401',
+     encoding: '7bit',
+     mimetype: 'application/octet-stream',
+     path: '/home/vegas/vegasImage/upload/SVCPost_686136478662656_ot_7510346641243811541588158429401',
+     extension: '',
+     size: 2617021,
+     truncated: false,
+     buffer: null },
+  uploadThumb: 
+   { fieldname: 'uploadThumb',
+     originalname: 'SVCPost_686136478662656_ot_751034664124381154_.undefined',
+     name: 'SVCPost_686136478662656_ot_751034664124381154_1588158429630.undefined',
+     encoding: '7bit',
+     mimetype: 'application/octet-stream',
+     path: '/home/vegas/vegasImage/upload/SVCPost_686136478662656_ot_751034664124381154_1588158429630.undefined',
+     extension: 'undefined',
+     size: 2307,
+     truncated: false,
+     buffer: null } }
+[2020-04-29 20:07:09.630] [INFO] vegasImage - file move = /home/vegas/vegasImage/public/image/480/202004/medical/source/picture_34866_20200429200709_5ablr6k9l8iuur.jpg
+[2020-04-29 20:07:09.630] [INFO] vegasImage - file move = /home/vegas/vegasImage/public/image/480/202004/medical/75x100/picture_34866_20200429200709_5ablr6k9l8iuur.jpg
+[2020-04-29 20:12:59.480] [INFO] app - uploadThumb is starting ...
+[2020-04-29 20:12:59.481] [INFO] app - uploadImage is starting ...
+[2020-04-29 20:12:59.481] [INFO] app - uploadThumb uploaded to  /home/vegas/vegasImage/upload/uploadThumb1588158779480
+[2020-04-29 20:12:59.672] [INFO] app - uploadImage uploaded to  /home/vegas/vegasImage/upload/uploadImage1588158779481
+[2020-04-29 20:12:59.672] [INFO] vegasImage - saveMedicalImage : uploadInfo = {"IMAGEPATH":"0429/paper_38720_20200429201303.png","ORGID":480}
+[2020-04-29 20:12:59.672] [INFO] vegasImage - saveMedicalImage : req.files={ uploadThumb: 
+   { fieldname: 'uploadThumb',
+     originalname: 'uploadThumb',
+     name: 'uploadThumb1588158779480',
+     encoding: '7bit',
+     mimetype: 'multipart/form-data',
+     path: '/home/vegas/vegasImage/upload/uploadThumb1588158779480',
+     extension: '',
+     size: 5404,
+     truncated: false,
+     buffer: null },
+  uploadImage: 
+   { fieldname: 'uploadImage',
+     originalname: 'uploadImage',
+     name: 'uploadImage1588158779481',
+     encoding: '7bit',
+     mimetype: 'multipart/form-data',
+     path: '/home/vegas/vegasImage/upload/uploadImage1588158779481',
+     extension: '',
+     size: 1098409,
+     truncated: false,
+     buffer: null } }
+[2020-04-29 20:12:59.672] [INFO] vegasImage - file move = /home/vegas/vegasImage/public/image/480/202004/medical/source/paper_38720_20200429201303.png
+[2020-04-29 20:12:59.672] [INFO] vegasImage - file move = /home/vegas/vegasImage/public/image/480/202004/medical/75x100/paper_38720_20200429201303.png
+[2020-04-29 20:13:46.881] [INFO] app - uploadThumb is starting ...
+[2020-04-29 20:13:46.881] [INFO] app - uploadImage is starting ...
+[2020-04-29 20:13:46.882] [INFO] app - uploadThumb uploaded to  /home/vegas/vegasImage/upload/uploadThumb1588158826881
+[2020-04-29 20:13:47.192] [INFO] app - uploadImage uploaded to  /home/vegas/vegasImage/upload/uploadImage1588158826881
+[2020-04-29 20:13:47.192] [INFO] vegasImage - saveMedicalImage : uploadInfo = {"IMAGEPATH":"0429/paper_38720_20200429201350.png","ORGID":480}
+[2020-04-29 20:13:47.192] [INFO] vegasImage - saveMedicalImage : req.files={ uploadThumb: 
+   { fieldname: 'uploadThumb',
+     originalname: 'uploadThumb',
+     name: 'uploadThumb1588158826881',
+     encoding: '7bit',
+     mimetype: 'multipart/form-data',
+     path: '/home/vegas/vegasImage/upload/uploadThumb1588158826881',
+     extension: '',
+     size: 3295,
+     truncated: false,
+     buffer: null },
+  uploadImage: 
+   { fieldname: 'uploadImage',
+     originalname: 'uploadImage',
+     name: 'uploadImage1588158826881',
+     encoding: '7bit',
+     mimetype: 'multipart/form-data',
+     path: '/home/vegas/vegasImage/upload/uploadImage1588158826881',
+     extension: '',
+     size: 505744,
+     truncated: false,
+     buffer: null } }
+[2020-04-29 20:13:47.193] [INFO] vegasImage - file move = /home/vegas/vegasImage/public/image/480/202004/medical/source/paper_38720_20200429201350.png
+[2020-04-29 20:13:47.193] [INFO] vegasImage - file move = /home/vegas/vegasImage/public/image/480/202004/medical/75x100/paper_38720_20200429201350.png
+[2020-04-29 20:14:56.614] [INFO] app - uploadThumb is starting ...
+[2020-04-29 20:14:56.614] [INFO] app - uploadImage is starting ...
+[2020-04-29 20:14:56.614] [INFO] app - uploadThumb uploaded to  /home/vegas/vegasImage/upload/uploadThumb1588158896614
+[2020-04-29 20:14:56.792] [INFO] app - uploadImage uploaded to  /home/vegas/vegasImage/upload/uploadImage1588158896614
+[2020-04-29 20:14:56.793] [INFO] vegasImage - saveMedicalImage : uploadInfo = {"IMAGEPATH":"0429/paper_35240_20200429201500.png","ORGID":480}
+[2020-04-29 20:14:56.793] [INFO] vegasImage - saveMedicalImage : req.files={ uploadThumb: 
+   { fieldname: 'uploadThumb',
+     originalname: 'uploadThumb',
+     name: 'uploadThumb1588158896614',
+     encoding: '7bit',
+     mimetype: 'multipart/form-data',
+     path: '/home/vegas/vegasImage/upload/uploadThumb1588158896614',
+     extension: '',
+     size: 5416,
+     truncated: false,
+     buffer: null },
+  uploadImage: 
+   { fieldname: 'uploadImage',
+     originalname: 'uploadImage',
+     name: 'uploadImage1588158896614',
+     encoding: '7bit',
+     mimetype: 'multipart/form-data',
+     path: '/home/vegas/vegasImage/upload/uploadImage1588158896614',
+     extension: '',
+     size: 1098340,
+     truncated: false,
+     buffer: null } }
+[2020-04-29 20:14:56.794] [INFO] vegasImage - file move = /home/vegas/vegasImage/public/image/480/202004/medical/source/paper_35240_20200429201500.png
+[2020-04-29 20:14:56.794] [INFO] vegasImage - file move = /home/vegas/vegasImage/public/image/480/202004/medical/75x100/paper_35240_20200429201500.png
+[2020-04-29 20:15:39.833] [INFO] app - uploadThumb is starting ...
+[2020-04-29 20:15:39.835] [INFO] app - uploadImage is starting ...
+[2020-04-29 20:15:39.836] [INFO] app - uploadThumb uploaded to  /home/vegas/vegasImage/upload/uploadThumb1588158939833
+[2020-04-29 20:15:39.895] [INFO] app - uploadImage uploaded to  /home/vegas/vegasImage/upload/uploadImage1588158939834
+[2020-04-29 20:15:39.896] [INFO] vegasImage - saveMedicalImage : uploadInfo = {"IMAGEPATH":"0429/paper_35240_20200429201543.png","ORGID":480}
+[2020-04-29 20:15:39.896] [INFO] vegasImage - saveMedicalImage : req.files={ uploadThumb: 
+   { fieldname: 'uploadThumb',
+     originalname: 'uploadThumb',
+     name: 'uploadThumb1588158939833',
+     encoding: '7bit',
+     mimetype: 'multipart/form-data',
+     path: '/home/vegas/vegasImage/upload/uploadThumb1588158939833',
+     extension: '',
+     size: 3239,
+     truncated: false,
+     buffer: null },
+  uploadImage: 
+   { fieldname: 'uploadImage',
+     originalname: 'uploadImage',
+     name: 'uploadImage1588158939834',
+     encoding: '7bit',
+     mimetype: 'multipart/form-data',
+     path: '/home/vegas/vegasImage/upload/uploadImage1588158939834',
+     extension: '',
+     size: 507890,
+     truncated: false,
+     buffer: null } }
+[2020-04-29 20:15:39.896] [INFO] vegasImage - file move = /home/vegas/vegasImage/public/image/480/202004/medical/source/paper_35240_20200429201543.png
+[2020-04-29 20:15:39.896] [INFO] vegasImage - file move = /home/vegas/vegasImage/public/image/480/202004/medical/75x100/paper_35240_20200429201543.png
+[2020-04-29 20:16:55.661] [INFO] app - uploadThumb is starting ...
+[2020-04-29 20:16:55.662] [INFO] app - uploadImage is starting ...
+[2020-04-29 20:16:55.663] [INFO] app - uploadThumb uploaded to  /home/vegas/vegasImage/upload/uploadThumb1588159015661
+[2020-04-29 20:16:56.164] [INFO] app - uploadImage uploaded to  /home/vegas/vegasImage/upload/uploadImage1588159015662
+[2020-04-29 20:16:56.164] [INFO] vegasImage - saveMedicalImage : uploadInfo = {"IMAGEPATH":"0429/paper_36917_20200429201659.png","ORGID":480}
+[2020-04-29 20:16:56.165] [INFO] vegasImage - saveMedicalImage : req.files={ uploadThumb: 
+   { fieldname: 'uploadThumb',
+     originalname: 'uploadThumb',
+     name: 'uploadThumb1588159015661',
+     encoding: '7bit',
+     mimetype: 'multipart/form-data',
+     path: '/home/vegas/vegasImage/upload/uploadThumb1588159015661',
+     extension: '',
+     size: 5354,
+     truncated: false,
+     buffer: null },
+  uploadImage: 
+   { fieldname: 'uploadImage',
+     originalname: 'uploadImage',
+     name: 'uploadImage1588159015662',
+     encoding: '7bit',
+     mimetype: 'multipart/form-data',
+     path: '/home/vegas/vegasImage/upload/uploadImage1588159015662',
+     extension: '',
+     size: 1092383,
+     truncated: false,
+     buffer: null } }
+[2020-04-29 20:16:56.166] [INFO] vegasImage - file move = /home/vegas/vegasImage/public/image/480/202004/medical/source/paper_36917_20200429201659.png
+[2020-04-29 20:16:56.166] [INFO] vegasImage - file move = /home/vegas/vegasImage/public/image/480/202004/medical/75x100/paper_36917_20200429201659.png
+[2020-04-29 20:17:40.887] [INFO] app - uploadThumb is starting ...
+[2020-04-29 20:17:40.888] [INFO] app - uploadImage is starting ...
+[2020-04-29 20:17:40.889] [INFO] app - uploadThumb uploaded to  /home/vegas/vegasImage/upload/uploadThumb1588159060887
+[2020-04-29 20:17:40.949] [INFO] app - uploadImage uploaded to  /home/vegas/vegasImage/upload/uploadImage1588159060888
+[2020-04-29 20:17:40.949] [INFO] vegasImage - saveMedicalImage : uploadInfo = {"IMAGEPATH":"0429/paper_38802_20200429201742.png","ORGID":480}
+[2020-04-29 20:17:40.949] [INFO] vegasImage - saveMedicalImage : req.files={ uploadThumb: 
+   { fieldname: 'uploadThumb',
+     originalname: 'uploadThumb',
+     name: 'uploadThumb1588159060887',
+     encoding: '7bit',
+     mimetype: 'multipart/form-data',
+     path: '/home/vegas/vegasImage/upload/uploadThumb1588159060887',
+     extension: '',
+     size: 2470,
+     truncated: false,
+     buffer: null },
+  uploadImage: 
+   { fieldname: 'uploadImage',
+     originalname: 'uploadImage',
+     name: 'uploadImage1588159060888',
+     encoding: '7bit',
+     mimetype: 'multipart/form-data',
+     path: '/home/vegas/vegasImage/upload/uploadImage1588159060888',
+     extension: '',
+     size: 364457,
+     truncated: false,
+     buffer: null } }
+[2020-04-29 20:17:40.949] [INFO] vegasImage - file move = /home/vegas/vegasImage/public/image/480/202004/medical/source/paper_38802_20200429201742.png
+[2020-04-29 20:17:40.950] [INFO] vegasImage - file move = /home/vegas/vegasImage/public/image/480/202004/medical/75x100/paper_38802_20200429201742.png
+[2020-04-29 20:17:51.939] [INFO] app - uploadThumb is starting ...
+[2020-04-29 20:17:51.939] [INFO] app - uploadImage is starting ...
+[2020-04-29 20:17:51.940] [INFO] app - uploadThumb uploaded to  /home/vegas/vegasImage/upload/uploadThumb1588159071939
+[2020-04-29 20:17:52.004] [INFO] app - uploadImage uploaded to  /home/vegas/vegasImage/upload/uploadImage1588159071939
+[2020-04-29 20:17:52.004] [INFO] vegasImage - saveMedicalImage : uploadInfo = {"IMAGEPATH":"0429/paper_36917_20200429201755.png","ORGID":480}
+[2020-04-29 20:17:52.005] [INFO] vegasImage - saveMedicalImage : req.files={ uploadThumb: 
+   { fieldname: 'uploadThumb',
+     originalname: 'uploadThumb',
+     name: 'uploadThumb1588159071939',
+     encoding: '7bit',
+     mimetype: 'multipart/form-data',
+     path: '/home/vegas/vegasImage/upload/uploadThumb1588159071939',
+     extension: '',
+     size: 3296,
+     truncated: false,
+     buffer: null },
+  uploadImage: 
+   { fieldname: 'uploadImage',
+     originalname: 'uploadImage',
+     name: 'uploadImage1588159071939',
+     encoding: '7bit',
+     mimetype: 'multipart/form-data',
+     path: '/home/vegas/vegasImage/upload/uploadImage1588159071939',
+     extension: '',
+     size: 509661,
+     truncated: false,
+     buffer: null } }
+[2020-04-29 20:17:52.005] [INFO] vegasImage - file move = /home/vegas/vegasImage/public/image/480/202004/medical/source/paper_36917_20200429201755.png
+[2020-04-29 20:17:52.005] [INFO] vegasImage - file move = /home/vegas/vegasImage/public/image/480/202004/medical/75x100/paper_36917_20200429201755.png
+[2020-04-29 20:19:16.055] [INFO] app - uploadThumb is starting ...
+[2020-04-29 20:19:16.056] [INFO] app - uploadImage is starting ...
+[2020-04-29 20:19:16.056] [INFO] app - uploadThumb uploaded to  /home/vegas/vegasImage/upload/uploadThumb1588159156055
+[2020-04-29 20:19:16.130] [INFO] app - uploadImage uploaded to  /home/vegas/vegasImage/upload/uploadImage1588159156056
+[2020-04-29 20:19:16.131] [INFO] vegasImage - saveMedicalImage : uploadInfo = {"IMAGEPATH":"0429/paper_38802_20200429201917.png","ORGID":480}
+[2020-04-29 20:19:16.131] [INFO] vegasImage - saveMedicalImage : req.files={ uploadThumb: 
+   { fieldname: 'uploadThumb',
+     originalname: 'uploadThumb',
+     name: 'uploadThumb1588159156055',
+     encoding: '7bit',
+     mimetype: 'multipart/form-data',
+     path: '/home/vegas/vegasImage/upload/uploadThumb1588159156055',
+     extension: '',
+     size: 2542,
+     truncated: false,
+     buffer: null },
+  uploadImage: 
+   { fieldname: 'uploadImage',
+     originalname: 'uploadImage',
+     name: 'uploadImage1588159156056',
+     encoding: '7bit',
+     mimetype: 'multipart/form-data',
+     path: '/home/vegas/vegasImage/upload/uploadImage1588159156056',
+     extension: '',
+     size: 422263,
+     truncated: false,
+     buffer: null } }
+[2020-04-29 20:19:16.131] [INFO] vegasImage - file move = /home/vegas/vegasImage/public/image/480/202004/medical/source/paper_38802_20200429201917.png
+[2020-04-29 20:19:16.131] [INFO] vegasImage - file move = /home/vegas/vegasImage/public/image/480/202004/medical/75x100/paper_38802_20200429201917.png
+[2020-04-29 20:21:34.289] [INFO] app - uploadThumb is starting ...
+[2020-04-29 20:21:34.290] [INFO] app - uploadImage is starting ...
+[2020-04-29 20:21:34.290] [INFO] app - uploadThumb uploaded to  /home/vegas/vegasImage/upload/uploadThumb1588159294289
+[2020-04-29 20:21:34.650] [INFO] app - uploadImage uploaded to  /home/vegas/vegasImage/upload/uploadImage1588159294290
+[2020-04-29 20:21:34.650] [INFO] vegasImage - saveMedicalImage : uploadInfo = {"IMAGEPATH":"0429/paper_38802_20200429202135.png","ORGID":480}
+[2020-04-29 20:21:34.651] [INFO] vegasImage - saveMedicalImage : req.files={ uploadThumb: 
+   { fieldname: 'uploadThumb',
+     originalname: 'uploadThumb',
+     name: 'uploadThumb1588159294289',
+     encoding: '7bit',
+     mimetype: 'multipart/form-data',
+     path: '/home/vegas/vegasImage/upload/uploadThumb1588159294289',
+     extension: '',
+     size: 4788,
+     truncated: false,
+     buffer: null },
+  uploadImage: 
+   { fieldname: 'uploadImage',
+     originalname: 'uploadImage',
+     name: 'uploadImage1588159294290',
+     encoding: '7bit',
+     mimetype: 'multipart/form-data',
+     path: '/home/vegas/vegasImage/upload/uploadImage1588159294290',
+     extension: '',
+     size: 1863751,
+     truncated: false,
+     buffer: null } }
+[2020-04-29 20:21:34.652] [INFO] vegasImage - file move = /home/vegas/vegasImage/public/image/480/202004/medical/source/paper_38802_20200429202135.png
+[2020-04-29 20:21:34.652] [INFO] vegasImage - file move = /home/vegas/vegasImage/public/image/480/202004/medical/75x100/paper_38802_20200429202135.png
+[2020-04-29 21:07:44.424] [INFO] app - uploadThumb is starting ...
+[2020-04-29 21:07:44.425] [INFO] app - uploadImage is starting ...
+[2020-04-29 21:07:44.427] [INFO] app - uploadThumb uploaded to  /home/vegas/vegasImage/upload/uploadThumb1588162064424
+[2020-04-29 21:07:44.582] [INFO] app - uploadImage uploaded to  /home/vegas/vegasImage/upload/uploadImage1588162064425
+[2020-04-29 21:07:44.583] [INFO] vegasImage - saveMedicalImage : uploadInfo = {"IMAGEPATH":"0429/paper_38844_20200429210746.png","ORGID":480}
+[2020-04-29 21:07:44.583] [INFO] vegasImage - saveMedicalImage : req.files={ uploadThumb: 
+   { fieldname: 'uploadThumb',
+     originalname: 'uploadThumb',
+     name: 'uploadThumb1588162064424',
+     encoding: '7bit',
+     mimetype: 'multipart/form-data',
+     path: '/home/vegas/vegasImage/upload/uploadThumb1588162064424',
+     extension: '',
+     size: 5630,
+     truncated: false,
+     buffer: null },
+  uploadImage: 
+   { fieldname: 'uploadImage',
+     originalname: 'uploadImage',
+     name: 'uploadImage1588162064425',
+     encoding: '7bit',
+     mimetype: 'multipart/form-data',
+     path: '/home/vegas/vegasImage/upload/uploadImage1588162064425',
+     extension: '',
+     size: 1134679,
+     truncated: false,
+     buffer: null } }
+[2020-04-29 21:07:44.583] [INFO] vegasImage - file move = /home/vegas/vegasImage/public/image/480/202004/medical/source/paper_38844_20200429210746.png
+[2020-04-29 21:07:44.583] [INFO] vegasImage - file move = /home/vegas/vegasImage/public/image/480/202004/medical/75x100/paper_38844_20200429210746.png
+[2020-04-29 23:04:53.266] [INFO] app - uploadThumb is starting ...
+[2020-04-29 23:04:53.266] [INFO] app - uploadImage is starting ...
+[2020-04-29 23:04:53.266] [INFO] app - uploadThumb uploaded to  /home/vegas/vegasImage/upload/uploadThumb1588169093266
+[2020-04-29 23:04:53.325] [INFO] app - uploadImage uploaded to  /home/vegas/vegasImage/upload/uploadImage1588169093266
+[2020-04-29 23:04:53.325] [INFO] vegasImage - saveMedicalImage : uploadInfo = {"IMAGEPATH":"0429/paper_38911_20200429230455.png","ORGID":480}
+[2020-04-29 23:04:53.325] [INFO] vegasImage - saveMedicalImage : req.files={ uploadThumb: 
+   { fieldname: 'uploadThumb',
+     originalname: 'uploadThumb',
+     name: 'uploadThumb1588169093266',
+     encoding: '7bit',
+     mimetype: 'multipart/form-data',
+     path: '/home/vegas/vegasImage/upload/uploadThumb1588169093266',
+     extension: '',
+     size: 3513,
+     truncated: false,
+     buffer: null },
+  uploadImage: 
+   { fieldname: 'uploadImage',
+     originalname: 'uploadImage',
+     name: 'uploadImage1588169093266',
+     encoding: '7bit',
+     mimetype: 'multipart/form-data',
+     path: '/home/vegas/vegasImage/upload/uploadImage1588169093266',
+     extension: '',
+     size: 569202,
+     truncated: false,
+     buffer: null } }
+[2020-04-29 23:04:53.326] [INFO] vegasImage - file move = /home/vegas/vegasImage/public/image/480/202004/medical/source/paper_38911_20200429230455.png
+[2020-04-29 23:04:53.326] [INFO] vegasImage - file move = /home/vegas/vegasImage/public/image/480/202004/medical/75x100/paper_38911_20200429230455.png
+[2020-04-29 23:05:09.932] [INFO] app - uploadThumb is starting ...
+[2020-04-29 23:05:09.934] [INFO] app - uploadImage is starting ...
+[2020-04-29 23:05:09.937] [INFO] app - uploadThumb uploaded to  /home/vegas/vegasImage/upload/uploadThumb1588169109932
+[2020-04-29 23:05:09.988] [INFO] app - uploadImage uploaded to  /home/vegas/vegasImage/upload/uploadImage1588169109934
+[2020-04-29 23:05:09.988] [INFO] vegasImage - saveMedicalImage : uploadInfo = {"IMAGEPATH":"202004/paper_38911_20200429230455.png","ORGID":480}
+[2020-04-29 23:05:09.988] [INFO] vegasImage - saveMedicalImage : req.files={ uploadThumb: 
+   { fieldname: 'uploadThumb',
+     originalname: 'uploadThumb',
+     name: 'uploadThumb1588169109932',
+     encoding: '7bit',
+     mimetype: 'multipart/form-data',
+     path: '/home/vegas/vegasImage/upload/uploadThumb1588169109932',
+     extension: '',
+     size: 3513,
+     truncated: false,
+     buffer: null },
+  uploadImage: 
+   { fieldname: 'uploadImage',
+     originalname: 'uploadImage',
+     name: 'uploadImage1588169109934',
+     encoding: '7bit',
+     mimetype: 'multipart/form-data',
+     path: '/home/vegas/vegasImage/upload/uploadImage1588169109934',
+     extension: '',
+     size: 569202,
+     truncated: false,
+     buffer: null } }
+[2020-04-29 23:05:09.988] [INFO] vegasImage - file move = /home/vegas/vegasImage/public/image/480/202004/medical/source/paper_38911_20200429230455.png
+[2020-04-29 23:05:09.988] [INFO] vegasImage - file move = /home/vegas/vegasImage/public/image/480/202004/medical/75x100/paper_38911_20200429230455.png
